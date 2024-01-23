@@ -1,0 +1,928 @@
+{
+    "spring": [
+        {
+            "crop name": "Ancient Fruit",
+            "seed name": "Ancient Seeds",
+            "days to maturity": "28 days",
+            "uses":[
+                {"quality": "base", "sell price": "550g", "energy": "N/A", "health": "N/A"},
+                {"quality": "silver", "sell price": "687g", "energy": "N/A", "health": "N/A"},
+                {"quality": "gold", "sell price": "825g", "energy": "N/A", "health": "N/A"},
+                {"quality": "iridium", "sell price": "1100g", "energy": "N/A", "health": "N/A"}
+            ],
+            "purchase price": [
+                {"store": "Crafting Recipe", "price": "Free"},
+                {"store": "Traveling Cart", "price": "100-1000g"}
+            ],
+            "regrowth": "7 days",
+            "image": "assets/images/Ancient_Fruit.png"
+        },
+
+        {
+            "crop name": "Blue Jazz",
+            "seed name": "Jazz Seeds",
+            "days to maturity": "7 days",
+            "uses":[
+                {"quality": "base", "sell price": "50g", "energy": "+45", "health": "+20"},
+                {"quality": "silver", "sell price": "62g", "energy": "+63", "health": "+28"},
+                {"quality": "gold", "sell price": "75g", "energy": "+81", "health": "+36"},
+                {"quality": "iridium", "sell price": "100g", "energy": "+117", "health": "+52"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "30g"},
+                {"store": "JojaMart", "price": "37g"}
+            ],
+            "regrowth": "N/A",
+            "image": "assets/images/Blue_Jazz.png"
+        },
+    
+        {
+            "crop name": "Cauliflower",
+            "seed name": "Cauliflower Seeds",
+            "days to maturity": "12 days",
+            "uses":[
+                {"quality": "base", "sell price": "175g", "energy": "+75", "health": "+33"},
+                {"quality": "silver", "sell price": "218g", "energy": "+105", "health": "+47"},
+                {"quality": "gold", "sell price": "262g", "energy": "+135", "health": "+60"},
+                {"quality": "iridium", "sell price": "350g", "energy": "+195", "health": "+87"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "80g"},
+                {"store": "JojaMart", "price": "100g"}
+            ],
+            "regrowth": "N/A",
+            "image": "assets/images/Cauliflower.png"
+        },
+    
+        {
+            "crop name": "Coffee Bean",
+            "seed name": "Coffee Bean",
+            "days to maturity": "10 days",
+            "uses":[
+                {"quality": "base", "sell price": "15g", "energy": "N/A", "health": "N/A"},
+                {"quality": "silver", "sell price": "18g", "energy": "N/A", "health": "N/A"},
+                {"quality": "gold", "sell price": "22g", "energy": "N/A", "health": "N/A"},
+                {"quality": "iridium", "sell price": "30g", "energy": "N/A", "health": "N/A"}
+            ],
+            "purchase price": [
+                {"store": "Traveling Cart", "price": "2500g"}
+            ],
+            "regrowth": "2 days",
+            "image": "assets/images/Coffee_Bean.png"
+        },
+    
+        {
+            "crop name": "Garlic",
+            "seed name": "Garlic Seeds",
+            "days to maturity": "4 days",
+            "uses":[
+                {"quality": "base", "sell price": "60g", "energy": "+20", "health": "+9"},
+                {"quality": "silver", "sell price": "75g", "energy": "+28", "health": "+12"},
+                {"quality": "gold", "sell price": "90g", "energy": "+36", "health": "+16"},
+                {"quality": "iridium", "sell price": "120g", "energy": "+52", "health": "+23"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "40g"}
+            ],
+            "regrowth": "N/A",
+            "image": "assets/images/Garlic.png"
+        },
+    
+        {
+            "crop name": "Green Bean",
+            "seed name": "Bean Starter",
+            "days to maturity": "10 days",
+            "uses":[
+                {"quality": "base", "sell price": "40g", "energy": "+25", "health": "+11"},
+                {"quality": "silver", "sell price": "50g", "energy": "+35", "health": "+15"},
+                {"quality": "gold", "sell price": "60g", "energy": "+45", "health": "+20"},
+                {"quality": "iridium", "sell price": "80g", "energy": "+65", "health": "+29"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "60g"},
+                {"store": "JojaMart", "price": "75g"}
+            ],
+            "regrowth": "3 days",
+            "image": "assets/images/Green_Bean.png"
+        },
+    
+        {
+            "crop name": "Kale",
+            "seed name": "Kale Seeds",
+            "days to maturity": "6 days",
+            "uses":[
+                {"quality": "base", "sell price": "110g", "energy": "+50", "health": "+22"},
+                {"quality": "silver", "sell price": "137g", "energy": "+70", "health": "+31"},
+                {"quality": "gold", "sell price": "165g", "energy": "+90", "health": "+40"},
+                {"quality": "iridium", "sell price": "220g", "energy": "+130", "health": "+58"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "70g"},
+                {"store": "JojaMart", "price": "87g"}
+            ],
+            "regrowth": "N/A",
+            "image": "assets/images/Kale.png"
+        },
+    
+        {
+            "crop name": "Parsnip",
+            "seed name": "Parsnip Seeds",
+            "days to maturity": "4 days",
+            "uses":[
+                {"quality": "base", "sell price": "35g", "energy": "+25", "health": "+11"},
+                {"quality": "silver", "sell price": "43g", "energy": "+35", "health": "+15"},
+                {"quality": "gold", "sell price": "52g", "energy": "+45", "health": "+20"},
+                {"quality": "iridium", "sell price": "70g", "energy": "+65", "health": "+29"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "20g"},
+                {"store": "JojaMart", "price": "25g"}
+            ],
+            "regrowth": "N/A",
+            "image": "assets/images/Parsnip.png"
+        },
+    
+        {
+            "crop name": "Potato",
+            "seed name": "Potato Seeds",
+            "days to maturity": "6 days",
+            "uses":[
+                {"quality": "base", "sell price": "80g", "energy": "+25", "health": "+11"},
+                {"quality": "silver", "sell price": "100g", "energy": "+35", "health": "+15"},
+                {"quality": "gold", "sell price": "120g", "energy": "+45", "health": "+20"},
+                {"quality": "iridium", "sell price": "160g", "energy": "+65", "health": "+29"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "50g"},
+                {"store": "JojaMart", "price": "62g"}
+            ],
+            "regrowth": "N/A",
+            "image": "assets/images/Potato.png"
+        },
+    
+        {
+            "crop name": "Rhubarb",
+            "seed name": "Rhubarb Seeds",
+            "days to maturity": "13 days",
+            "uses":[
+                {"quality": "base", "sell price": "220g", "energy": "N/A", "health": "N/A"},
+                {"quality": "silver", "sell price": "275g", "energy": "N/A", "health": "N/A"},
+                {"quality": "gold", "sell price": "330g", "energy": "N/A", "health": "N/A"},
+                {"quality": "iridium", "sell price": "440g", "energy": "N/A", "health": "N/A"}
+            ],
+            "purchase price": [
+                {"store": "Oasis", "price": "100g"}
+            ],
+            "regrowth": "N/A",
+            "image": "assets/images/Rhubarb.png"
+        },
+    
+        {
+            "crop name": "Strawberry",
+            "seed name": "Strawberry Seeds",
+            "days to maturity": "8 days",
+            "uses":[
+                {"quality": "base", "sell price": "120g", "energy": "+50", "health": "+22"},
+                {"quality": "silver", "sell price": "150g", "energy": "+70", "health": "+31"},
+                {"quality": "gold", "sell price": "180g", "energy": "+90", "health": "+40"},
+                {"quality": "iridium", "sell price": "240g", "energy": "+130", "health": "+58"}
+            ],
+            "purchase price": [
+                {"store": "Egg Festival", "price": "100g"}
+            ],
+            "regrowth": "4 days",
+            "image": "assets/images/Strawberry.png"
+        },
+
+        {
+            "crop name": "Tea Leaves",
+            "seed name": "Tea Sapling",
+            "days to maturity": "20 days",
+            "uses":[
+                {"quality": "base", "sell price": "50g", "energy": "N/A", "health": "N/A"},
+                {"quality": "silver", "sell price": "N/A", "energy": "N/A", "health": "N/A"},
+                {"quality": "gold", "sell price": "N/A", "energy": "N/A", "health": "N/A"},
+                {"quality": "iridium", "sell price": "N/A", "energy": "N/A", "health": "N/A"}
+            ],
+            "purchase price": [
+                {"store": "Crafting Recipe", "price": "Free"}
+            ],
+            "regrowth": "1 day",
+            "image": "assets/images/Tea_Leaves.png"
+        },
+    
+        {
+            "crop name": "Tulip",
+            "seed name": "Tulip Bulb",
+            "days to maturity": "6 days",
+            "uses":[
+                {"quality": "base", "sell price": "30g", "energy": "+45", "health": "+20"},
+                {"quality": "silver", "sell price": "37g", "energy": "+63", "health": "+28"},
+                {"quality": "gold", "sell price": "45g", "energy": "+81", "health": "+36"},
+                {"quality": "iridium", "sell price": "60g", "energy": "+117", "health": "+52"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "20g"},
+                {"store": "JojaMart", "price": "25g"}
+            ],
+            "regrowth": "N/A",
+            "image": "assets/images/Tulip.png"
+        },
+    
+        {
+            "crop name": "Unmilled Rice",
+            "seed name": "Rice Shoot",
+            "days to maturity": "8 days",
+            "uses":[
+                {"quality": "base", "sell price": "30g", "energy": "+3", "health": "+1"},
+                {"quality": "silver", "sell price": "37g", "energy": "+4", "health": "+1"},
+                {"quality": "gold", "sell price": "45g", "energy": "+5", "health": "+2"},
+                {"quality": "iridium", "sell price": "60g", "energy": "+7", "health": "+3"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "40g"}
+            ],
+            "regrowth": "N/A",
+            "image": "assets/images/Unmilled_Rice.png"
+        }
+    ],
+
+    "summer": [
+        {
+            "crop name": "Ancient Fruit",
+            "seed name": "Ancient Seeds",
+            "days to maturity": "28 days",
+            "uses":[
+                {"quality": "base", "sell price": "550g", "energy": "N/A", "health": "N/A"},
+                {"quality": "silver", "sell price": "687g", "energy": "N/A", "health": "N/A"},
+                {"quality": "gold", "sell price": "825g", "energy": "N/A", "health": "N/A"},
+                {"quality": "iridium", "sell price": "1100g", "energy": "N/A", "health": "N/A"}
+            ],
+            "purchase price": [
+                {"store": "Crafting Recipe", "price": "Free"},
+                {"store": "Traveling Cart", "price": "100-1000g"}
+            ],
+            "regrowth": "7 days",
+            "image": "assets/images/Ancient_Fruit.png"
+        },
+
+        {
+            "crop name": "Blueberry",
+            "seed name": "Blueberry Seeds",
+            "days to maturity": "13 days",
+            "uses":[
+                {"quality": "base", "sell price": "50g", "energy": "+25", "health": "+11"},
+                {"quality": "silver", "sell price": "62g", "energy": "+35", "health": "+15"},
+                {"quality": "gold", "sell price": "75g", "energy": "+45", "health": "+20"},
+                {"quality": "iridium", "sell price": "100g", "energy": "+65", "health": "+29"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "80g"}
+            ],
+            "regrowth": "4 days",
+            "image": "assets/images/Blueberry.png"
+        },
+
+        {
+            "crop name": "Coffee Bean",
+            "seed name": "Coffee Bean",
+            "days to maturity": "10 days",
+            "uses":[
+                {"quality": "base", "sell price": "15g", "energy": "N/A", "health": "N/A"},
+                {"quality": "silver", "sell price": "18g", "energy": "N/A", "health": "N/A"},
+                {"quality": "gold", "sell price": "22g", "energy": "N/A", "health": "N/A"},
+                {"quality": "iridium", "sell price": "30g", "energy": "N/A", "health": "N/A"}
+            ],
+            "purchase price": [
+                {"store": "Traveling Cart", "price": "2500g"}
+            ],
+            "regrowth": "2 days",
+            "image": "assets/images/Coffee_Bean.png"
+        },
+    
+        {
+            "crop name": "Corn",
+            "seed name": "Corn Seeds",
+            "days to maturity": "14 days",
+            "uses":[
+                {"quality": "base", "sell price": "50g", "energy": "+25", "health": "+11"},
+                {"quality": "silver", "sell price": "62g", "energy": "+35", "health": "+15"},
+                {"quality": "gold", "sell price": "75g", "energy": "+45", "health": "+20"},
+                {"quality": "iridium", "sell price": "100g", "energy": "+65", "health": "+29"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "150g"},
+                {"store": "JojaMart", "price": "187g"}
+            ],
+            "regrowth": "4 days",
+            "image": "assets/images/Corn.png"
+        },
+    
+        {
+            "crop name": "Hops",
+            "seed name": "Hops Starter",
+            "days to maturity": "11 days",
+            "uses":[
+                {"quality": "base", "sell price": "25g", "energy": "+45", "health": "+20"},
+                {"quality": "silver", "sell price": "31g", "energy": "+63", "health": "+28"},
+                {"quality": "gold", "sell price": "37g", "energy": "+81", "health": "+36"},
+                {"quality": "iridium", "sell price": "50g", "energy": "+117", "health": "+52"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "60g"},
+                {"store": "JojaMart", "price": "75g"}
+            ],
+            "regrowth": "1 day",
+            "image": "assets/images/Hops.png"
+        },
+    
+        {
+            "crop name": "Hot Pepper",
+            "seed name": "Pepper Seeds",
+            "days to maturity": "5 days",
+            "uses":[
+                {"quality": "base", "sell price": "40g", "energy": "+13", "health": "+5"},
+                {"quality": "silver", "sell price": "50g", "energy": "+18", "health": "+8"},
+                {"quality": "gold", "sell price": "60g", "energy": "+23", "health": "+10"},
+                {"quality": "iridium", "sell price": "80g", "energy": "+33", "health": "+14"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "40g"},
+                {"store": "JojaMart", "price": "50g"}
+            ],
+            "regrowth": "3 days",
+            "image": "assets/images/Hot_Pepper.png"
+        },
+    
+        {
+            "crop name": "Melon",
+            "seed name": "Melon Seeds",
+            "days to maturity": "12 days",
+            "uses":[
+                {"quality": "base", "sell price": "250g", "energy": "+113", "health": "+50"},
+                {"quality": "silver", "sell price": "312g", "energy": "+158", "health": "+71"},
+                {"quality": "gold", "sell price": "375g", "energy": "+203", "health": "+91"},
+                {"quality": "iridium", "sell price": "500g", "energy": "+293", "health": "+131"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "80g"},
+                {"store": "JojaMart", "price": "100g"}
+            ],
+            "regrowth": "N/A",
+            "image": "assets/images/Melon.png"
+        },
+
+        {
+            "crop name": "Pineapple",
+            "seed name": "Pineapple Seeds",
+            "days to maturity": "14 days",
+            "uses":[
+                {"quality": "base", "sell price": "300g", "energy": "+135", "health": "+62"},
+                {"quality": "silver", "sell price": "375g", "energy": "+193", "health": "+86"},
+                {"quality": "gold", "sell price": "450g", "energy": "+248", "health": "+111"},
+                {"quality": "iridium", "sell price": "600g", "energy": "+358", "health": "+161"}
+            ],
+            "purchase price": [
+                {"store": "Island Trader", "price": "1 Magma Cap"}
+            ],
+            "regrowth": "7 days",
+            "image": "assets/images/Pineapple.png"
+        },
+    
+        {
+            "crop name": "Poppy",
+            "seed name": "Poppy Seeds",
+            "days to maturity": "7 days",
+            "uses":[
+                {"quality": "base", "sell price": "140g", "energy": "+45", "health": "+20"},
+                {"quality": "silver", "sell price": "175g", "energy": "+63", "health": "+28"},
+                {"quality": "gold", "sell price": "210g", "energy": "+81", "health": "+36"},
+                {"quality": "iridium", "sell price": "280g", "energy": "+117", "health": "+52"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "100g"},
+                {"store": "JojaMart", "price": "125g"}
+            ],
+            "regrowth": "N/A",
+            "image": "assets/images/Poppy.png"
+        },
+    
+        {
+            "crop name": "Radish",
+            "seed name": "Radish Seeds",
+            "days to maturity": "6 days",
+            "uses":[
+                {"quality": "base", "sell price": "90g", "energy": "+45", "health": "+20"},
+                {"quality": "silver", "sell price": "112g", "energy": "+63", "health": "+28"},
+                {"quality": "gold", "sell price": "135g", "energy": "+81", "health": "+36"},
+                {"quality": "iridium", "sell price": "180g", "energy": "+117", "health": "+52"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "40g"},
+                {"store": "JojaMart", "price": "50g"}
+            ],
+            "regrowth": "N/A",
+            "image": "assets/images/Radish.png"
+        },
+    
+        {
+            "crop name": "Red Cabbage",
+            "seed name": "Red Cabbage Seeds",
+            "days to maturity": "9 days",
+            "uses":[
+                {"quality": "base", "sell price": "260g", "energy": "+75", "health": "+33"},
+                {"quality": "silver", "sell price": "325g", "energy": "+105", "health": "+47"},
+                {"quality": "gold", "sell price": "390g", "energy": "+135", "health": "+60"},
+                {"quality": "iridium", "sell price": "520g", "energy": "+195", "health": "+87"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "100g"}
+            ],
+            "regrowth": "N/A",
+            "image": "assets/images/Red_Cabbage.png"
+        },
+    
+        {
+            "crop name": "Starfruit",
+            "seed name": "Starfruit Seeds",
+            "days to maturity": "13 days",
+            "uses":[
+                {"quality": "base", "sell price": "750g", "energy": "+125", "health": "+56"},
+                {"quality": "silver", "sell price": "937g", "energy": "+175", "health": "+78"},
+                {"quality": "gold", "sell price": "1125g", "energy": "+225", "health": "+101"},
+                {"quality": "iridium", "sell price": "1500g", "energy": "+325", "health": "+146"}
+            ],
+            "purchase price": [
+                {"store": "Oasis", "price": "400g"}
+            ],
+            "regrowth": "N/A",
+            "image": "assets/images/Starfruit.png"
+        },
+    
+        {
+            "crop name": "Summer Spangle",
+            "seed name": "Spangle Seeds",
+            "days to maturity": "8 days",
+            "uses":[
+                {"quality": "base", "sell price": "90g", "energy": "+45", "health": "+20"},
+                {"quality": "silver", "sell price": "112g", "energy": "+63", "health": "+28"},
+                {"quality": "gold", "sell price": "135g", "energy": "+81", "health": "+36"},
+                {"quality": "iridium", "sell price": "180g", "energy": "+117", "health": "+52"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "50g"},
+                {"store": "JojaMart", "price": "62g"}
+            ],
+            "regrowth": "N/A",
+            "image": "assets/images/Summer_Spangle.png"
+        },
+    
+        {
+            "crop name": "Sunflower",
+            "seed name": "Sunflower Seeds",
+            "days to maturity": "8 days",
+            "uses":[
+                {"quality": "base", "sell price": "80g", "energy": "+45", "health": "+20"},
+                {"quality": "silver", "sell price": "100g", "energy": "+63", "health": "+28"},
+                {"quality": "gold", "sell price": "120g", "energy": "+81", "health": "+36"},
+                {"quality": "iridium", "sell price": "160g", "energy": "+117", "health": "+52"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "200g"},
+                {"store": "JojaMart", "price": "125g"}
+            ],
+            "regrowth": "N/A",
+            "image": "assets/images/Sunflower.png"
+        },
+
+        {
+            "crop name": "Taro Root",
+            "seed name": "Taro Tuber",
+            "days to maturity": "10 days",
+            "uses":[
+                {"quality": "base", "sell price": "100g", "energy": "+38", "health": "+17"},
+                {"quality": "silver", "sell price": "125g", "energy": "+53", "health": "+23"},
+                {"quality": "gold", "sell price": "150g", "energy": "+68", "health": "+30"},
+                {"quality": "iridium", "sell price": "200g", "energy": "+98", "health": "+44"}
+            ],
+            "purchase price": [
+                {"store": "Island Trader", "price": "2 Bone Fragments"}
+            ],
+            "regrowth": "N/A",
+            "image": "assets/images/Taro_Root.png"
+        },
+
+        {
+            "crop name": "Tea Leaves",
+            "seed name": "Tea Sapling",
+            "days to maturity": "20 days",
+            "uses":[
+                {"quality": "base", "sell price": "50g", "energy": "N/A", "health": "N/A"},
+                {"quality": "silver", "sell price": "N/A", "energy": "N/A", "health": "N/A"},
+                {"quality": "gold", "sell price": "N/A", "energy": "N/A", "health": "N/A"},
+                {"quality": "iridium", "sell price": "N/A", "energy": "N/A", "health": "N/A"}
+            ],
+            "purchase price": [
+                {"store": "Crafting Recipe", "price": "Free"}
+            ],
+            "regrowth": "1 day",
+            "image": "assets/images/Tea_Leaves.png"
+        },
+    
+        {
+            "crop name": "Tomato",
+            "seed name": "Tomato Seeds",
+            "days to maturity": "11 days",
+            "uses":[
+                {"quality": "base", "sell price": "60g", "energy": "+20", "health": "+9"},
+                {"quality": "silver", "sell price": "75g", "energy": "+28", "health": "+12"},
+                {"quality": "gold", "sell price": "90g", "energy": "+36", "health": "+16"},
+                {"quality": "iridium", "sell price": "120g", "energy": "+52", "health": "+23"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "50g"},
+                {"store": "JojaMart", "price": "62g"}
+            ],
+            "regrowth": "4 days",
+            "image": "assets/images/Tomato.png"
+        },
+    
+        {
+            "crop name": "Wheat",
+            "seed name": "Wheat Seeds",
+            "days to maturity": "4 days",
+            "uses":[
+                {"quality": "base", "sell price": "25g", "energy": "N/A", "health": "N/A"},
+                {"quality": "silver", "sell price": "31g", "energy": "N/A", "health": "N/A"},
+                {"quality": "gold", "sell price": "37g", "energy": "N/A", "health": "N/A"},
+                {"quality": "iridium", "sell price": "50g", "energy": "N/A", "health": "N/A"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "10g"},
+                {"store": "JojaMart", "price": "12g"}
+            ],
+            "regrowth": "N/A",
+            "image": "assets/images/Wheat.png"
+        }
+    ],
+
+    "fall": [
+        {
+            "crop name": "Amaranth",
+            "seed name": "Amaranth Seeds",
+            "days to maturity": "7 days",
+            "uses":[
+                {"quality": "base", "sell price": "150g", "energy": "+50", "health": "+22"},
+                {"quality": "silver", "sell price": "187g", "energy": "+70", "health": "+31"},
+                {"quality": "gold", "sell price": "225g", "energy": "+90", "health": "+40"},
+                {"quality": "iridium", "sell price": "300g", "energy": "+130", "health": "+58"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "70g"},
+                {"store": "JojaMart", "price": "87g"}
+            ],
+            "regrowth": "N/A",
+            "image": "assets/images/Amaranth.png"
+        },
+
+        {
+            "crop name": "Ancient Fruit",
+            "seed name": "Ancient Seeds",
+            "days to maturity": "28 days",
+            "uses":[
+                {"quality": "base", "sell price": "550g", "energy": "N/A", "health": "N/A"},
+                {"quality": "silver", "sell price": "687g", "energy": "N/A", "health": "N/A"},
+                {"quality": "gold", "sell price": "825g", "energy": "N/A", "health": "N/A"},
+                {"quality": "iridium", "sell price": "1100g", "energy": "N/A", "health": "N/A"}
+            ],
+            "purchase price": [
+                {"store": "Crafting Recipe", "price": "Free"},
+                {"store": "Traveling Cart", "price": "100-1000g"}
+            ],
+            "regrowth": "7 days",
+            "image": "assets/images/Ancient_Fruit.png"
+        },
+    
+        {
+            "crop name": "Artichoke",
+            "seed name": "Artichoke Seeds",
+            "days to maturity": "8 days",
+            "uses":[
+                {"quality": "base", "sell price": "160g", "energy": "+30", "health": "+13"},
+                {"quality": "silver", "sell price": "200g", "energy": "+42", "health": "+18"},
+                {"quality": "gold", "sell price": "240g", "energy": "+54", "health": "+24"},
+                {"quality": "iridium", "sell price": "320g", "energy": "+78", "health": "+35"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "30g"}
+            ],
+            "regrowth": "N/A",
+            "image": "assets/images/Artichoke.png"
+        },
+    
+        {
+            "crop name": "Beet",
+            "seed name": "Beet Seeds",
+            "days to maturity": "6 days",
+            "uses":[
+                {"quality": "base", "sell price": "100g", "energy": "+30", "health": "+13"},
+                {"quality": "silver", "sell price": "125g", "energy": "+42", "health": "+18"},
+                {"quality": "gold", "sell price": "150g", "energy": "+54", "health": "+24"},
+                {"quality": "iridium", "sell price": "200g", "energy": "+78", "health": "+35"}
+            ],
+            "purchase price": [
+                {"store": "Oasis", "price": "20g"}
+            ],
+            "regrowth": "N/A",
+            "image": "assets/images/Beet.png"
+        },
+    
+        {
+            "crop name": "Bok Choy",
+            "seed name": "Bok Choy Seeds",
+            "days to maturity": "4 days",
+            "uses":[
+                {"quality": "base", "sell price": "80g", "energy": "+25", "health": "+11"},
+                {"quality": "silver", "sell price": "100g", "energy": "+35", "health": "+15"},
+                {"quality": "gold", "sell price": "120g", "energy": "+45", "health": "+20"},
+                {"quality": "iridium", "sell price": "160g", "energy": "+65", "health": "+29"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "50g"},
+                {"store": "JojaMart", "price": "62g"}
+            ],
+            "regrowth": "N/A",
+            "image": "assets/images/Bok_Choy.png"
+        },
+
+        {
+            "crop name": "Corn",
+            "seed name": "Corn Seeds",
+            "days to maturity": "14 days",
+            "uses":[
+                {"quality": "base", "sell price": "50g", "energy": "+25", "health": "+11"},
+                {"quality": "silver", "sell price": "62g", "energy": "+35", "health": "+15"},
+                {"quality": "gold", "sell price": "75g", "energy": "+45", "health": "+20"},
+                {"quality": "iridium", "sell price": "100g", "energy": "+65", "health": "+29"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "150g"},
+                {"store": "JojaMart", "price": "187g"}
+            ],
+            "regrowth": "4 days",
+            "image": "assets/images/Corn.png"
+        },
+    
+        {
+            "crop name": "Cranberries",
+            "seed name": "Cranberry Seeds",
+            "days to maturity": "7 days",
+            "uses":[
+                {"quality": "base", "sell price": "75g", "energy": "+38", "health": "+17"},
+                {"quality": "silver", "sell price": "93g", "energy": "+53", "health": "+23"},
+                {"quality": "gold", "sell price": "112g", "energy": "+68", "health": "+30"},
+                {"quality": "iridium", "sell price": "150g", "energy": "+98", "health": "+44"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "240g"},
+                {"store": "JojaMart", "price": "300g"}
+            ],
+            "regrowth": "5 days",
+            "image": "assets/images/Cranberries.png"
+        },
+    
+        {
+            "crop name": "Eggplant",
+            "seed name": "Eggplant Seeds",
+            "days to maturity": "5 days",
+            "uses":[
+                {"quality": "base", "sell price": "60g", "energy": "+20", "health": "+9"},
+                {"quality": "silver", "sell price": "75g", "energy": "+28", "health": "+12"},
+                {"quality": "gold", "sell price": "90g", "energy": "+36", "health": "+16"},
+                {"quality": "iridium", "sell price": "120g", "energy": "+52", "health": "+23"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "20g"},
+                {"store": "JojaMart", "price": "25g"}
+            ],
+            "regrowth": "5 days",
+            "image": "assets/images/Eggplant.png"
+        },
+    
+        {
+            "crop name": "Fairy Rose",
+            "seed name": "Fairy Seeds",
+            "days to maturity": "12 days",
+            "uses":[
+                {"quality": "base", "sell price": "290g", "energy": "+45", "health": "+20"},
+                {"quality": "silver", "sell price": "362g", "energy": "+63", "health": "+28"},
+                {"quality": "gold", "sell price": "435g", "energy": "+81", "health": "+36"},
+                {"quality": "iridium", "sell price": "580g", "energy": "+117", "health": "+52"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "200g"},
+                {"store": "JojaMart", "price": "250g"}
+            ],
+            "regrowth": "N/A",
+            "image": "assets/images/Fairy_Rose.png"
+        },
+    
+        {
+            "crop name": "Grape",
+            "seed name": "Grape Starter",
+            "days to maturity": "10 days",
+            "uses":[
+                {"quality": "base", "sell price": "80g", "energy": "+38", "health": "+17"},
+                {"quality": "silver", "sell price": "100g", "energy": "+53", "health": "+23"},
+                {"quality": "gold", "sell price": "120g", "energy": "+68", "health": "+30"},
+                {"quality": "iridium", "sell price": "160g", "energy": "+98", "health": "+44"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "60g"},
+                {"store": "JojaMart", "price": "75g"}
+            ],
+            "regrowth": "3 days",
+            "image": "assets/images/Grape.png"
+        },
+    
+        {
+            "crop name": "Pumpkin",
+            "seed name": "Pumpkin Seeds",
+            "days to maturity": "13 days",
+            "uses":[
+                {"quality": "base", "sell price": "320g", "energy": "N/A", "health": "N/A"},
+                {"quality": "silver", "sell price": "400g", "energy": "N/A", "health": "N/A"},
+                {"quality": "gold", "sell price": "480g", "energy": "N/A", "health": "N/A"},
+                {"quality": "iridium", "sell price": "640g", "energy": "N/A", "health": "N/A"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "100g"},
+                {"store": "JojaMart", "price": "125g"}
+            ],
+            "regrowth": "N/A",
+            "image": "assets/images/Pumpkin.png"
+        },
+            
+        {
+            "crop name": "Sunflower",
+            "seed name": "Sunflower Seeds",
+            "days to maturity": "8 days",
+            "uses":[
+                {"quality": "base", "sell price": "80g", "energy": "+45", "health": "+20"},
+                {"quality": "silver", "sell price": "100g", "energy": "+63", "health": "+28"},
+                {"quality": "gold", "sell price": "120g", "energy": "+81", "health": "+36"},
+                {"quality": "iridium", "sell price": "160g", "energy": "+117", "health": "+52"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "200g"},
+                {"store": "JojaMart", "price": "125g"}
+            ],
+            "regrowth": "N/A",
+            "image": "assets/images/Sunflower.png"
+        },
+
+        {
+            "crop name": "Sweet Gem Berry",
+            "seed name": "Rare Seeds",
+            "days to maturity": "24 days",
+            "uses":[
+                {"quality": "base", "sell price": "3000g", "energy": "N/A", "health": "N/A"},
+                {"quality": "silver", "sell price": "3750g", "energy": "N/A", "health": "N/A"},
+                {"quality": "gold", "sell price": "4500g", "energy": "N/A", "health": "N/A"},
+                {"quality": "iridium", "sell price": "6000g", "energy": "N/A", "health": "N/A"}
+            ],
+            "purchase price": [
+                {"store": "Traveling Cart", "price": "1000g"}
+            ],
+            "regrowth": "N/A",
+            "image": "assets/images/Sweet_Gem_Berry.png"
+        },
+
+        {
+            "crop name": "Tea Leaves",
+            "seed name": "Tea Sapling",
+            "days to maturity": "20 days",
+            "uses":[
+                {"quality": "base", "sell price": "50g", "energy": "N/A", "health": "N/A"},
+                {"quality": "silver", "sell price": "N/A", "energy": "N/A", "health": "N/A"},
+                {"quality": "gold", "sell price": "N/A", "energy": "N/A", "health": "N/A"},
+                {"quality": "iridium", "sell price": "N/A", "energy": "N/A", "health": "N/A"}
+            ],
+            "purchase price": [
+                {"store": "Crafting Recipe", "price": "Free"}
+            ],
+            "regrowth": "1 day",
+            "image": "assets/images/Tea_Leaves.png"
+        },
+
+        {
+            "crop name": "Wheat",
+            "seed name": "Wheat Seeds",
+            "days to maturity": "4 days",
+            "uses":[
+                {"quality": "base", "sell price": "25g", "energy": "N/A", "health": "N/A"},
+                {"quality": "silver", "sell price": "31g", "energy": "N/A", "health": "N/A"},
+                {"quality": "gold", "sell price": "37g", "energy": "N/A", "health": "N/A"},
+                {"quality": "iridium", "sell price": "50g", "energy": "N/A", "health": "N/A"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "10g"},
+                {"store": "JojaMart", "price": "12g"}
+            ],
+            "regrowth": "N/A",
+            "image": "assets/images/Wheat.png"
+        },
+    
+        {
+            "crop name": "Yam",
+            "seed name": "Yam Seeds",
+            "days to maturity": "10 days",
+            "uses":[
+                {"quality": "base", "sell price": "160g", "energy": "+45", "health": "+20"},
+                {"quality": "silver", "sell price": "200g", "energy": "+63", "health": "+28"},
+                {"quality": "gold", "sell price": "240g", "energy": "+81", "health": "+36"},
+                {"quality": "iridium", "sell price": "320g", "energy": "+117", "health": "+52"}
+            ],
+            "purchase price": [
+                {"store": "Pierre's", "price": "60g"},
+                {"store": "JojaMart", "price": "75g"}
+            ],
+            "regrowth": "N/A",
+            "image": "assets/images/Yam.png"
+        }
+    ],
+
+    "special": [
+        {
+            "crop name": "Cactus Fruit",
+            "seed name": "Cactus Seeds",
+            "days to maturity": "12 days",
+            "uses":[
+                {"quality": "base", "sell price": "75g", "energy": "+75", "health": "+33"},
+                {"quality": "silver", "sell price": "93g", "energy": "+105", "health": "+47"},
+                {"quality": "gold", "sell price": "112g", "energy": "+135", "health": "+60"},
+                {"quality": "iridium", "sell price": "150g", "energy": "+195", "health": "+87"}
+            ],
+            "purchase price": [
+                {"store": "Oasis", "price": "150g"}
+            ],
+            "regrowth": "3 days",
+            "image": "assets/images/Cactus_Fruit.png",
+            "description": "Can only be grown in the Greenhouse, indoors in Garden Pots, or on the Ginger Island farm."
+        },
+
+        {
+            "crop name": "Fiber",
+            "seed name": "Fiber Seeds",
+            "days to maturity": "7 days",
+            "uses":[
+                {"quality": "base", "sell price": "1g", "energy": "N/A", "health": "N/A"},
+                {"quality": "silver", "sell price": "N/A", "energy": "N/A", "health": "+N/A"},
+                {"quality": "gold", "sell price": "N/A", "energy": "N/A", "health": "N/A"},
+                {"quality": "iridium", "sell price": "N/A", "energy": "N/A", "health": "N/A"}
+            ],
+            "purchase price": [
+                {"store": "Crafting Recipe", "price": "Free"}
+            ],
+            "regrowth": "N/A",
+            "image": "assets/images/Fiber.png",
+            "description": "Grows in all seasons, including Winter. Does not need to be watered. Produces multiple Fiber when harvested."
+        },
+
+        {
+            "crop name": "Pineapple",
+            "seed name": "Pineapple Seeds",
+            "days to maturity": "14 days",
+            "uses":[
+                {"quality": "base", "sell price": "300g", "energy": "+135", "health": "+62"},
+                {"quality": "silver", "sell price": "375g", "energy": "+193", "health": "+86"},
+                {"quality": "gold", "sell price": "450g", "energy": "+248", "health": "+111"},
+                {"quality": "iridium", "sell price": "600g", "energy": "+358", "health": "+161"}
+            ],
+            "purchase price": [
+                {"store": "Island Trader", "price": "1 Magma Cap"}
+            ],
+            "regrowth": "7 days",
+            "image": "assets/images/Pineapple.png",
+            "description": "Grows all year on the Ginger Island Farm."
+        },
+
+        {
+            "crop name": "Taro Root",
+            "seed name": "Taro Tuber",
+            "days to maturity": "10 days",
+            "uses":[
+                {"quality": "base", "sell price": "100g", "energy": "+38", "health": "+17"},
+                {"quality": "silver", "sell price": "125g", "energy": "+53", "health": "+23"},
+                {"quality": "gold", "sell price": "150g", "energy": "+68", "health": "+30"},
+                {"quality": "iridium", "sell price": "200g", "energy": "+98", "health": "+44"}
+            ],
+            "purchase price": [
+                {"store": "Island Trader", "price": "2 Bone Fragments"}
+            ],
+            "regrowth": "N/A",
+            "image": "assets/images/Taro_Root.png",
+            "description": "If irrigated, it will reach maturity in 7 days. Grows all year on the Ginger Island Farm."
+        }
+    ]
+}

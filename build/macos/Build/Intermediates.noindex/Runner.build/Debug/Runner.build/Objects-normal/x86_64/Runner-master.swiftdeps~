@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "39043efbc258fca21056d0512d24ea1639adaa08aebf7901f8e8637a786ca1e3"
+build_start_time: [1683494782, 109215021]
+build_end_time: [1683494782, 143415927]
+inputs:
+  "/Users/alisonhansen/Desktop/Spring 2023/ISTE 252/project3/project3/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1683494763, 298981666]
+  "/Users/alisonhansen/Desktop/Spring 2023/ISTE 252/project3/project3/macos/Runner/AppDelegate.swift": !private [1678307516, 0]
+  "/Users/alisonhansen/Desktop/Spring 2023/ISTE 252/project3/project3/macos/Runner/MainFlutterWindow.swift": !private [1678307516, 0]

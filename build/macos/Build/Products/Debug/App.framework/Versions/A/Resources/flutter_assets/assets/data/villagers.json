@@ -1,0 +1,26 @@
+{
+    "spring": [
+
+    ],
+
+    "summer": [
+        {
+            "name": "Alex",
+            "birthday": "Summer 13",
+            "loved gifts": [
+                {"gift name": "Complete Breakfast", "image": "assets/images/Complete_Breakfast.png"},
+                {"gift name": "Salmon Dinner", "image": "assets/images/Salmon_Dinner.png"}
+            ],
+            "image": "Alex.png",
+            "marriage": "yes"
+        }
+    ],
+
+    "fall": [
+
+    ],
+
+    "winter": [
+
+    ]
+}

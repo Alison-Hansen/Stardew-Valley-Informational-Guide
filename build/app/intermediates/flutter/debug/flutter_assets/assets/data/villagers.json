@@ -1,0 +1,305 @@
+{
+    "spring": [
+        {
+            "name": "Haley",
+            "birthday": "Spring 14",
+            "loved gifts": [
+                {"gift name": "Coconut", "image": "assets/images/Coconut.png"},
+                {"gift name": "Fruit Salad", "image": "assets/images/Fruit_Salad.png"},
+                {"gift name": "Pink Cake", "image": "assets/images/Pink_Cake.png"},
+                {"gift name": "Sunflower", "image": "assets/images/Sunflower.png"}
+            ],
+            "image": "assets/images/Haley.png",
+            "marriage": "yes"
+        },
+
+        {
+            "name": "Shane",
+            "birthday": "Spring 20",
+            "loved gifts": [
+                {"gift name": "Beer", "image": "assets/images/Beer.png"},
+                {"gift name": "Hot Pepper", "image": "assets/images/Hot_Pepper.png"},
+                {"gift name": "Pepper Poppers", "image": "assets/images/Pepper_Poppers.png"},
+                {"gift name": "Pizza", "image": "assets/images/Pizza.png"}
+            ],
+            "image": "assets/images/Shane.png",
+            "marriage": "yes"
+        },
+
+        {
+            "name": "Emily",
+            "birthday": "Spring 27",
+            "loved gifts": [
+                {"gift name": "Amethyst", "image": "assets/images/Amethyst.png"},
+                {"gift name": "Aquamarine", "image": "assets/images/Aquamarine.png"},
+                {"gift name": "Cloth", "image": "assets/images/Cloth.png"},
+                {"gift name": "Emerald", "image": "assets/images/Emerald.png"},
+                {"gift name": "Jade", "image": "assets/images/Jade.png"},
+                {"gift name": "Ruby", "image": "assets/images/Ruby.png"},
+                {"gift name": "Survival Burger", "image": "assets/images/Survival_Burger.png"},
+                {"gift name": "Topaz", "image": "assets/images/Topaz.png"},
+                {"gift name": "Wool", "image": "assets/images/Wool.png"}
+            ],
+            "image": "assets/images/Emily.png",
+            "marriage": "yes"
+        }
+    ],
+
+    "summer": [
+        {
+            "name": "Jas",
+            "birthday": "Summer 4",
+            "loved gifts": [
+                {"gift name": "Fairy Rose", "image": "assets/images/Fairy_Rose.png"},
+                {"gift name": "Pink Cake", "image": "assets/images/Pink_Cake.png"},
+                {"gift name": "Plum Pudding", "image": "assets/images/Plum_Pudding.png"}
+            ],
+            "image": "assets/images/Jas.png",
+            "marriage": "no"
+        },
+
+        {
+            "name": "Gus",
+            "birthday": "Summer 10",
+            "loved gifts": [
+                {"gift name": "Diamond", "image": "assets/images/Diamond.png"},
+                {"gift name": "Escargot", "image": "assets/images/Escargot.png"},
+                {"gift name": "Fish Taco", "image": "assets/images/Fish_Taco.png"},
+                {"gift name": "Orange", "image": "assets/images/Orange.png"},
+                {"gift name": "Tropical Curry", "image": "assets/images/Tropical_Curry.png"}
+            ],
+            "image": "assets/images/Gus.png",
+            "marriage": "no"
+        },
+
+        {
+            "name": "Maru",
+            "birthday": "Summer 10",
+            "loved gifts": [
+                {"gift name": "Battery Pack", "image": "assets/images/Battery_Pack.png"},
+                {"gift name": "Cauliflower", "image": "assets/images/Cauliflower.png"},
+                {"gift name": "Cheese Cauliflower", "image": "assets/images/Cheese_Cauliflower.png"},
+                {"gift name": "Diamond", "image": "assets/images/Diamond.png"},
+                {"gift name": "Gold Bar", "image": "assets/images/Gold_Bar.png"},
+                {"gift name": "Iridium Bar", "image": "assets/images/Iridium_Bar.png"},
+                {"gift name": "Miner's Treat", "image": "assets/images/Miners_Treat.png"},
+                {"gift name": "Pepper Poppers", "image": "assets/images/Pepper_Poppers.png"},
+                {"gift name": "Radioactive Bar", "image": "assets/images/Radioactive_Bar.png"},
+                {"gift name": "Rhubarb Pie", "image": "assets/images/Rhubarb_Pie.png"},
+                {"gift name": "Strawberry", "image": "assets/images/Strawberry.png"}
+            ],
+            "image": "assets/images/Maru.png",
+            "marriage": "yes"
+        },
+
+        {
+            "name": "Alex",
+            "birthday": "Summer 13",
+            "loved gifts": [
+                {"gift name": "Complete Breakfast", "image": "assets/images/Complete_Breakfast.png"},
+                {"gift name": "Salmon Dinner", "image": "assets/images/Salmon_Dinner.png"}
+            ],
+            "image": "assets/images/Alex.png",
+            "marriage": "yes"
+        },
+
+        {
+            "name": "Sam",
+            "birthday": "Summer 17",
+            "loved gifts": [
+                {"gift name": "Cactus Fruit", "image": "assets/images/Cactus_Fruit.png"},
+                {"gift name": "Maple Bar", "image": "assets/images/Maple_Bar.png"},
+                {"gift name": "Pizza", "image": "assets/images/Pizza.png"},
+                {"gift name": "Tigerseye", "image": "assets/images/Tigerseye.png"}
+            ],
+            "image": "assets/images/Sam.png",
+            "marriage": "yes"
+        },
+
+        {
+            "name": "Demetrius",
+            "birthday": "Summer 19",
+            "loved gifts": [
+                {"gift name": "Bean Hotpot", "image": "assets/images/Bean_Hotpot.png"},
+                {"gift name": "Ice Cream", "image": "assets/images/Ice_Cream.png"},
+                {"gift name": "Rice Pudding", "image": "assets/images/Rice_Pudding.png"},
+                {"gift name": "Strawberry", "image": "assets/images/Strawberry.png"}
+            ],
+            "image": "assets/images/Demetrius.png",
+            "marriage": "no"
+        },
+
+        {
+            "name": "Dwarf",
+            "birthday": "Summer 22",
+            "loved gifts": [
+                {"gift name": "Amethyst", "image": "assets/images/Amethyst.png"},
+                {"gift name": "Aquamarine", "image": "assets/images/Aquamarine.png"},
+                {"gift name": "Emerald", "image": "assets/images/Emerald.png"},
+                {"gift name": "Jade", "image": "assets/images/Jade.png"},
+                {"gift name": "Lemon Stone", "image": "assets/images/Lemon_Stone.png"},
+                {"gift name": "Omni Geode", "image": "assets/images/Omni_Geode.png"},
+                {"gift name": "Ruby", "image": "assets/images/Ruby.png"},
+                {"gift name": "Topaz", "image": "assets/images/Topaz.png"}
+            ],
+            "image": "assets/images/Dwarf.png",
+            "marriage": "no"
+        }
+    ],
+
+    "fall": [
+        {
+            "name": "Penny",
+            "birthday": "Fall 2",
+            "loved gifts": [
+                {"gift name": "Diamond", "image": "assets/images/Diamond.png"},
+                {"gift name": "Emerald", "image": "assets/images/Emerald.png"},
+                {"gift name": "Melon", "image": "assets/images/Melon.png"},
+                {"gift name": "Poppy", "image": "assets/images/Poppy.png"},
+                {"gift name": "Poppyseed Muffin", "image": "assets/images/Poppyseed_Muffin.png"},
+                {"gift name": "Red Plate", "image": "assets/images/Red_Plate.png"},
+                {"gift name": "Roots Platter", "image": "assets/images/Roots_Platter.png"},
+                {"gift name": "Sandfish", "image": "assets/images/Sandfish.png"},
+                {"gift name": "Tom Kha Soup", "image": "assets/images/Tom_Kha_Soup.png"}
+            ],
+            "image": "assets/images/Penny.png",
+            "marriage": "yes"
+        },
+
+        {
+            "name": "Elliott",
+            "birthday": "Fall 5",
+            "loved gifts": [
+                {"gift name": "Crab Cakes", "image": "assets/images/Crab_Cakes.png"},
+                {"gift name": "Duck Feather", "image": "assets/images/Duck_Feather.png"},
+                {"gift name": "Lobster", "image": "assets/images/Lobster.png"},
+                {"gift name": "Pomegranate", "image": "assets/images/Pomegranate.png"},
+                {"gift name": "Squid Ink", "image": "assets/images/Squid_Ink.png"},
+                {"gift name": "Tom Kha Soup", "image": "assets/images/Tom_Kha_Soup.png"}
+            ],
+            "image": "assets/images/Elliott.png",
+            "marriage": "yes"
+        },
+
+        {
+            "name": "Abigail",
+            "birthday": "Fall 13",
+            "loved gifts": [
+                {"gift name": "Amethyst", "image": "assets/images/Amethyst.png"},
+                {"gift name": "Banana Pudding", "image": "assets/images/Banana_Pudding.png"},
+                {"gift name": "Blackberry Cobbler", "image": "assets/images/Blackberry_Cobbler.png"},
+                {"gift name": "Chocolate Cake", "image": "assets/images/Chocolate_Cake.png"},
+                {"gift name": "Pufferfish", "image": "assets/images/Pufferfish.png"},
+                {"gift name": "Pumpkin", "image": "assets/images/Pumpkin.png"},
+                {"gift name": "Spicy Eel", "image": "assets/images/Spicy_Eel.png"}
+            ],
+            "image": "assets/images/Abigail.png",
+            "marriage": "yes"
+        },
+
+        {
+            "name": "George",
+            "birthday": "Fall 24",
+            "loved gifts": [
+                {"gift name": "Fried Mushroom", "image": "assets/images/Fried_Mushroom.png"},
+                {"gift name": "Leek", "image": "assets/images/Leek.png"}
+            ],
+            "image": "assets/images/George.png",
+            "marriage": "no"
+        }
+    ],
+
+    "winter": [
+        {
+            "name": "Caroline",
+            "birthday": "Winter 7",
+            "loved gifts": [
+                {"gift name": "Fish Taco", "image": "assets/images/Fish_Taco.png"},
+                {"gift name": "Green Tea", "image": "assets/images/Green_Tea.png"},
+                {"gift name": "Summer Spangle", "image": "assets/images/Summer_Spangle.png"},
+                {"gift name": "Tropical Curry", "image": "assets/images/Tropical_Curry.png"}
+            ],
+            "image": "assets/images/Caroline.png",
+            "marriage": "no"
+        },
+
+        {
+            "name": "Sebastian",
+            "birthday": "Winter 10",
+            "loved gifts": [
+                {"gift name": "Frozen Tear", "image": "assets/images/Frozen_Tear.png"},
+                {"gift name": "Obsidian", "image": "assets/images/Obsidian.png"},
+                {"gift name": "Pumpkin Soup", "image": "assets/images/Pumpkin_Soup.png"},
+                {"gift name": "Sashimi", "image": "assets/images/Sashimi.png"},
+                {"gift name": "Void Egg", "image": "assets/images/Void_Egg.png"}
+            ],
+            "image": "assets/images/Sebastian.png",
+            "marriage": "yes"
+        },
+        
+        {
+            "name": "Harvey",
+            "birthday": "Winter 14",
+            "loved gifts": [
+                {"gift name": "Coffee", "image": "assets/images/Coffee.png"},
+                {"gift name": "Pickles", "image": "assets/images/Pickles.png"},
+                {"gift name": "Super Meal", "image": "assets/images/Super_Meal.png"},
+                {"gift name": "Truffle Oil", "image": "assets/images/Truffle_Oil.png"},
+                {"gift name": "Wine", "image": "assets/images/Wine.png"}
+            ],
+            "image": "assets/images/Harvey.png",
+            "marriage": "yes"
+        },
+
+        {
+            "name": "Evelyn",
+            "birthday": "Winter 20",
+            "loved gifts": [
+                {"gift name": "Beet", "image": "assets/images/Beet.png"},
+                {"gift name": "Chocolate Cake", "image": "assets/images/Chocolate_Cake.png"},
+                {"gift name": "Diamond", "image": "assets/images/Diamond.png"},
+                {"gift name": "Fairy Rose", "image": "assets/images/Fairy_Rose.png"},
+                {"gift name": "Stuffing", "image": "assets/images/Stuffing.png"},
+                {"gift name": "Tulip", "image": "assets/images/Tulip.png"}
+            ],
+            "image": "assets/images/Evelyn.png",
+            "marriage": "no"
+        },
+
+        {
+            "name": "Leah",
+            "birthday": "Winter 23",
+            "loved gifts": [
+                {"gift name": "Goat Cheese", "image": "assets/images/Goat_Cheese.png"},
+                {"gift name": "Poppyseed Muffin", "image": "assets/images/Poppyseed_Muffin.png"},
+                {"gift name": "Salad", "image": "assets/images/Salad.png"},
+                {"gift name": "Stir Fry", "image": "assets/images/Stir_Fry.png"},
+                {"gift name": "Truffle", "image": "assets/images/Truffle.png"},
+                {"gift name": "Vegetable Medley", "image": "assets/images/Vegetable_Medley.png"},
+                {"gift name": "Wine", "image": "assets/images/Wine.png"}
+            ],
+            "image": "assets/images/Leah.png",
+            "marriage": "yes"
+        },
+
+        {
+            "name": "Clint",
+            "birthday": "Winter 26",
+            "loved gifts": [
+                {"gift name": "Amethyst", "image": "assets/images/Amethyst.png"},
+                {"gift name": "Aquamarine", "image": "assets/images/Aquamarine.png"},
+                {"gift name": "Artichoke Dip", "image": "assets/images/Artichoke_Dip.png"},
+                {"gift name": "Emerald", "image": "assets/images/Emerald.png"},
+                {"gift name": "Fiddlehead Risotto", "image": "assets/images/Fiddlehead_Risotto.png"},
+                {"gift name": "Gold Bar", "image": "assets/images/Gold_Bar.png"},
+                {"gift name": "Iridium Bar", "image": "assets/images/Iridium_Bar.png"},
+                {"gift name": "Jade", "image": "assets/images/Jade.png"},
+                {"gift name": "Omni Geode", "image": "assets/images/Omni_Geode.png"},
+                {"gift name": "Ruby", "image": "assets/images/Ruby.png"},
+                {"gift name": "Topaz", "image": "assets/images/Topaz.png"}
+            ],
+            "image": "assets/images/Clint.png",
+            "marriage": "no"
+        }
+    ]
+}

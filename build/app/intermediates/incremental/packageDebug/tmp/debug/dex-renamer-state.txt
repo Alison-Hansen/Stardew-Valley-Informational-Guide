@@ -1,0 +1,4 @@
+#Mon May 08 18:53:16 EDT 2023
+base.0=/Users/alisonhansen/Desktop/Spring 2023/ISTE 252/project3/project3/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,1831 @@
+{
+    "spring": [
+        {
+            "name": "Anchovy",
+            "location": "Ocean",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "30g", "fisher": "37g", "angler": "45g"},
+                {"quality": "silver", "base": "37g", "fisher": "46g", "angler": "55g"},
+                {"quality": "gold", "base": "45g", "fisher": "56g", "angler": "67g"},
+                {"quality": "iridium", "base": "60g", "fisher": "75g", "angler": "90g"}
+            ],
+            "image": "assets/images/Anchovy.png"
+        },
+
+        {
+            "name": "Smallmouth Bass",
+            "location": "River (Town), Forest Pond",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "50g", "fisher": "62g", "angler": "75g"},
+                {"quality": "silver", "base": "62g", "fisher": "77g", "angler": "93g"},
+                {"quality": "gold", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "iridium", "base": "100g", "fisher": "125g", "angler": "150g"}
+            ],
+            "image": "assets/images/Smallmouth_Bass.png"
+        },
+
+        {
+            "name": "Catfish",
+            "location": "River (Town & Forest), Secret Woods Pond, Witch's Swamp",
+            "time": "6am - 12am",
+            "weather": "Rain",
+            "prices":[
+                {"quality": "base", "base": "200g", "fisher": "250g", "angler": "300g"},
+                {"quality": "silver", "base": "250g", "fisher": "312g", "angler": "375g"},
+                {"quality": "gold", "base": "300g", "fisher": "375g", "angler": "450g"},
+                {"quality": "iridium", "base": "400g", "fisher": "500g", "angler": "600g"}
+            ],
+            "image": "assets/images/Catfish.png"
+        },
+
+        {
+            "name": "Sunfish",
+            "location": "River (Town & Forest)",
+            "time": "6am - 7pm",
+            "weather": "Sun, Wind",
+            "prices":[
+                {"quality": "base", "base": "30g", "fisher": "37g", "angler": "45g"},
+                {"quality": "silver", "base": "37g", "fisher": "46g", "angler": "55g"},
+                {"quality": "gold", "base": "45g", "fisher": "56g", "angler": "67g"},
+                {"quality": "iridium", "base": "60g", "fisher": "75g", "angler": "90g"}
+            ],
+            "image": "assets/images/Sunfish.png"
+        },
+
+        {
+            "name": "Herring",
+            "location": "Ocean",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "30g", "fisher": "37g", "angler": "45g"},
+                {"quality": "silver", "base": "37g", "fisher": "46g", "angler": "55g"},
+                {"quality": "gold", "base": "45g", "fisher": "56g", "angler": "67g"},
+                {"quality": "iridium", "base": "60g", "fisher": "75g", "angler": "90g"}
+            ],
+            "image": "assets/images/Herring.png"
+        },
+
+        {
+            "name": "Eel",
+            "location": "Ocean",
+            "time": "4pm - 2am",
+            "weather": "Rain",
+            "prices":[
+                {"quality": "base", "base": "85g", "fisher": "106g", "angler": "127g"},
+                {"quality": "silver", "base": "106g", "fisher": "132g", "angler": "159g"},
+                {"quality": "gold", "base": "127g", "fisher": "158g", "angler": "190g"},
+                {"quality": "iridium", "base": "170g", "fisher": "212g", "angler": "255g"}
+            ],
+            "image": "assets/images/Eel.png"
+        },
+
+        {
+            "name": "Sardine",
+            "location": "Ocean",
+            "time": "6am - 7pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "40g", "fisher": "50g", "angler": "60g"},
+                {"quality": "silver", "base": "50g", "fisher": "62g", "angler": "75g"},
+                {"quality": "gold", "base": "60g", "fisher": "75g", "angler": "90g"},
+                {"quality": "iridium", "base": "80g", "fisher": "100g", "angler": "120g"}
+            ],
+            "image": "assets/images/Sardine.png"
+        },
+
+        {
+            "name": "Shad",
+            "location": "River (Town & Forest)",
+            "time": "9am - 2am",
+            "weather": "Rain",
+            "prices":[
+                {"quality": "base", "base": "60g", "fisher": "75g", "angler": "90g"},
+                {"quality": "silver", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "gold", "base": "90g", "fisher": "112g", "angler": "135g"},
+                {"quality": "iridium", "base": "120g", "fisher": "150g", "angler": "180g"}
+            ],
+            "image": "assets/images/Shad.png"
+        },
+
+        {
+            "name": "Flounder",
+            "location": "Ocean, Ginger Island Oceans",
+            "time": "6am - 8pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "100g", "fisher": "125g", "angler": "150g"},
+                {"quality": "silver", "base": "125g", "fisher": "156g", "angler": "187g"},
+                {"quality": "gold", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "iridium", "base": "200g", "fisher": "250g", "angler": "300g"}
+            ],
+            "image": "assets/images/Flounder.png"
+        },
+
+        {
+            "name": "Halibut",
+            "location": "Ocean",
+            "time": "6am - 11am & 7pm - 2am",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "80g", "fisher": "100g", "angler": "120g"},
+                {"quality": "silver", "base": "100g", "fisher": "125g", "angler": "150g"},
+                {"quality": "gold", "base": "120g", "fisher": "150g", "angler": "180g"},
+                {"quality": "iridium", "base": "160g", "fisher": "200g", "angler": "240g"}
+            ],
+            "image": "assets/images/Halibut.png"
+        },
+
+        {
+            "name": "Legend",
+            "location": "Mounatin Lake (near the log)",
+            "time": "Anytime",
+            "weather": "Rain",
+            "prices":[
+                {"quality": "base", "base": "5000g", "fisher": "6250g", "angler": "7500g"},
+                {"quality": "silver", "base": "6250g", "fisher": "7812g", "angler": "9375g"},
+                {"quality": "gold", "base": "7500g", "fisher": "9375g", "angler": "11250g"},
+                {"quality": "iridium", "base": "10000g", "fisher": "12500g", "angler": "15000g"}
+            ],
+            "image": "assets/images/Legend.png"
+        },
+
+        {
+            "name": "Largemouth Bass",
+            "location": "Mounatin Lake",
+            "time": "6am - 7pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "100g", "fisher": "125g", "angler": "150g"},
+                {"quality": "silver", "base": "125g", "fisher": "156g", "angler": "187g"},
+                {"quality": "gold", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "iridium", "base": "200g", "fisher": "250g", "angler": "300g"}
+            ],
+            "image": "assets/images/Largemouth_Bass.png"
+        },
+
+        {
+            "name": "Bream",
+            "location": "River (Town & Forest)",
+            "time": "6pm - 2am",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "45g", "fisher": "56g", "angler": "67g"},
+                {"quality": "silver", "base": "56g", "fisher": "70g", "angler": "84g"},
+                {"quality": "gold", "base": "67g", "fisher": "83g", "angler": "100g"},
+                {"quality": "iridium", "base": "90g", "fisher": "112g", "angler": "135g"}
+            ],
+            "image": "assets/images/Bream.png"
+        },
+
+        {
+            "name": "Carp",
+            "location": "Mounatin Lake, Secret Woods Pond, The Sewers",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "30g", "fisher": "37g", "angler": "45g"},
+                {"quality": "silver", "base": "37g", "fisher": "46g", "angler": "55g"},
+                {"quality": "gold", "base": "45g", "fisher": "56g", "angler": "67g"},
+                {"quality": "iridium", "base": "60g", "fisher": "75g", "angler": "90g"}
+            ],
+            "image": "assets/images/Carp.png"
+        },
+
+        {
+            "name": "Ghostfish",
+            "location": "Mines (Floors 20 & 60), Ghost drops",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "45g", "fisher": "56g", "angler": "67g"},
+                {"quality": "silver", "base": "56g", "fisher": "70g", "angler": "84g"},
+                {"quality": "gold", "base": "67g", "fisher": "83g", "angler": "100g"},
+                {"quality": "iridium", "base": "90g", "fisher": "112g", "angler": "135g"}
+            ],
+            "image": "assets/images/Ghostfish.png"
+        },
+
+        {
+            "name": "Stonefish",
+            "location": "Mines (Floor 20)",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "300g", "fisher": "375g", "angler": "450g"},
+                {"quality": "silver", "base": "375g", "fisher": "468g", "angler": "562g"},
+                {"quality": "gold", "base": "450g", "fisher": "562g", "angler": "675g"},
+                {"quality": "iridium", "base": "600g", "fisher": "750g", "angler": "900g"}
+            ],
+            "image": "assets/images/Stonefish.png"
+        },
+
+        {
+            "name": "Ice Pip",
+            "location": "Mines (Floor 60)",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "500g", "fisher": "625g", "angler": "750g"},
+                {"quality": "silver", "base": "625g", "fisher": "781g", "angler": "937g"},
+                {"quality": "gold", "base": "750g", "fisher": "937g", "angler": "1125g"},
+                {"quality": "iridium", "base": "1000g", "fisher": "1250g", "angler": "1500g"}
+            ],
+            "image": "assets/images/Ice_Pip.png"
+        },
+
+        {
+            "name": "Lava Eel",
+            "location": "Mines (Floor 100), Volcano Caldera",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "700g", "fisher": "875g", "angler": "1050g"},
+                {"quality": "silver", "base": "875g", "fisher": "1093g", "angler": "1312g"},
+                {"quality": "gold", "base": "1050g", "fisher": "1312g", "angler": "1575g"},
+                {"quality": "iridium", "base": "1400g", "fisher": "1750g", "angler": "2100g"}
+            ],
+            "image": "assets/images/Lava_Eel.png"
+        },
+
+        {
+            "name": "Sandfish",
+            "location": "The Desert",
+            "time": "6am - 8pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "silver", "base": "93g", "fisher": "116g", "angler": "139g"},
+                {"quality": "gold", "base": "112g", "fisher": "140g", "angler": "168g"},
+                {"quality": "iridium", "base": "150g", "fisher": "187g", "angler": "225g"}
+            ],
+            "image": "assets/images/Sandfish.png"
+        },
+
+        {
+            "name": "Scorpion Carp",
+            "location": "The Desert",
+            "time": "6am - 8pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "silver", "base": "187g", "fisher": "233g", "angler": "280g"},
+                {"quality": "gold", "base": "225g", "fisher": "281g", "angler": "337g"},
+                {"quality": "iridium", "base": "300g", "fisher": "375g", "angler": "450g"}
+            ],
+            "image": "assets/images/Scorpion_Carp.png"
+        },
+
+        {
+            "name": "Bullhead",
+            "location": "Mounatin Lake",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "silver", "base": "93g", "fisher": "116g", "angler": "139g"},
+                {"quality": "gold", "base": "112g", "fisher": "140g", "angler": "168g"},
+                {"quality": "iridium", "base": "150g", "fisher": "187g", "angler": "225g"}
+            ],
+            "image": "assets/images/Bullhead.png"
+        },
+
+        {
+            "name": "Chub",
+            "location": "River (Forest), Mountain Lake",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "50g", "fisher": "62g", "angler": "75g"},
+                {"quality": "silver", "base": "62g", "fisher": "77g", "angler": "93g"},
+                {"quality": "gold", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "iridium", "base": "100g", "fisher": "125g", "angler": "150g"}
+            ],
+            "image": "assets/images/Chub.png"
+        },
+
+        {
+            "name": "Woodskip",
+            "location": "Secret Woods Pond, Forest Farm",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "silver", "base": "93g", "fisher": "116g", "angler": "139g"},
+                {"quality": "gold", "base": "112g", "fisher": "140g", "angler": "168g"},
+                {"quality": "iridium", "base": "150g", "fisher": "187g", "angler": "225g"}
+            ],
+            "image": "assets/images/Woodskip.png"
+        },
+
+        {
+            "name": "Void Salmon",
+            "location": "Witch's Swamp",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "silver", "base": "187g", "fisher": "233g", "angler": "280g"},
+                {"quality": "gold", "base": "225g", "fisher": "281g", "angler": "337g"},
+                {"quality": "iridium", "base": "300g", "fisher": "375g", "angler": "450g"}
+            ],
+            "image": "assets/images/Void_Salmon.png"
+        },
+
+        {
+            "name": "Slimejack",
+            "location": "Mutant Bug Lair",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "100g", "fisher": "125g", "angler": "150g"},
+                {"quality": "silver", "base": "125g", "fisher": "156g", "angler": "187g"},
+                {"quality": "gold", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "iridium", "base": "200g", "fisher": "250g", "angler": "300g"}
+            ],
+            "image": "assets/images/Slimejack.png"
+        }
+    ],
+
+    "summer": [
+        {
+            "name": "Catfish",
+            "location": "Secret Woods Pond",
+            "time": "6am - 12am",
+            "weather": "Rain",
+            "prices":[
+                {"quality": "base", "base": "200g", "fisher": "250g", "angler": "300g"},
+                {"quality": "silver", "base": "250g", "fisher": "312g", "angler": "375g"},
+                {"quality": "gold", "base": "300g", "fisher": "375g", "angler": "450g"},
+                {"quality": "iridium", "base": "400g", "fisher": "500g", "angler": "600g"}
+            ],
+            "image": "assets/images/Catfish.png"
+        },
+
+        {
+            "name": "Pufferfish",
+            "location": "Ocean, Ginger Island Oceans",
+            "time": "12pm - 4pm",
+            "weather": "Sun",
+            "prices":[
+                {"quality": "base", "base": "200g", "fisher": "250g", "angler": "300g"},
+                {"quality": "silver", "base": "250g", "fisher": "312g", "angler": "375g"},
+                {"quality": "gold", "base": "300g", "fisher": "375g", "angler": "450g"},
+                {"quality": "iridium", "base": "400g", "fisher": "500g", "angler": "600g"}
+            ],
+            "image": "assets/images/Pufferfish.png"
+        },
+
+        {
+            "name": "Sunfish",
+            "location": "River (Town & Forest)",
+            "time": "6am - 7pm",
+            "weather": "Sun, Wind",
+            "prices":[
+                {"quality": "base", "base": "30g", "fisher": "37g", "angler": "45g"},
+                {"quality": "silver", "base": "37g", "fisher": "46g", "angler": "55g"},
+                {"quality": "gold", "base": "45g", "fisher": "56g", "angler": "67g"},
+                {"quality": "iridium", "base": "60g", "fisher": "75g", "angler": "90g"}
+            ],
+            "image": "assets/images/Sunfish.png"
+        },
+
+        {
+            "name": "Shad",
+            "location": "River (Town & Forest)",
+            "time": "9am - 2am",
+            "weather": "Rain",
+            "prices":[
+                {"quality": "base", "base": "60g", "fisher": "75g", "angler": "90g"},
+                {"quality": "silver", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "gold", "base": "90g", "fisher": "112g", "angler": "135g"},
+                {"quality": "iridium", "base": "120g", "fisher": "150g", "angler": "180g"}
+            ],
+            "image": "assets/images/Shad.png"
+        },
+
+        {
+            "name": "Flounder",
+            "location": "Ocean, Ginger Island Oceans",
+            "time": "6am - 8pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "100g", "fisher": "125g", "angler": "150g"},
+                {"quality": "silver", "base": "125g", "fisher": "156g", "angler": "187g"},
+                {"quality": "gold", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "iridium", "base": "200g", "fisher": "250g", "angler": "300g"}
+            ],
+            "image": "assets/images/Flounder.png"
+        },
+
+        {
+            "name": "Halibut",
+            "location": "Ocean",
+            "time": "6am - 11am & 7pm - 2am",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "80g", "fisher": "100g", "angler": "120g"},
+                {"quality": "silver", "base": "100g", "fisher": "125g", "angler": "150g"},
+                {"quality": "gold", "base": "120g", "fisher": "150g", "angler": "180g"},
+                {"quality": "iridium", "base": "160g", "fisher": "200g", "angler": "240g"}
+            ],
+            "image": "assets/images/Halibut.png"
+        },
+
+        {
+            "name": "Tuna",
+            "location": "Ocean, Ginger Island Oceans",
+            "time": "6am - 7pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "100g", "fisher": "125g", "angler": "150g"},
+                {"quality": "silver", "base": "125g", "fisher": "156g", "angler": "187g"},
+                {"quality": "gold", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "iridium", "base": "200g", "fisher": "250g", "angler": "300g"}
+            ],
+            "image": "assets/images/Tuna.png"
+        },
+
+        {
+            "name": "Rainbow Trout",
+            "location": "River (Town & Forest), Mountain Lake",
+            "time": "6am - 7pm",
+            "weather": "Sun",
+            "prices":[
+                {"quality": "base", "base": "65g", "fisher": "81g", "angler": "97g"},
+                {"quality": "silver", "base": "81g", "fisher": "101g", "angler": "121g"},
+                {"quality": "gold", "base": "97g", "fisher": "121g", "angler": "145g"},
+                {"quality": "iridium", "base": "130g", "fisher": "162g", "angler": "195g"}
+            ],
+            "image": "assets/images/Rainbow_Trout.png"
+        },
+
+        {
+            "name": "Pike",
+            "location": "River (Town), Forest Pond",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "100g", "fisher": "125g", "angler": "150g"},
+                {"quality": "silver", "base": "125g", "fisher": "156g", "angler": "187g"},
+                {"quality": "gold", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "iridium", "base": "200g", "fisher": "250g", "angler": "300g"}
+            ],
+            "image": "assets/images/Pike.png"
+        },
+
+        {
+            "name": "Red Mullet",
+            "location": "Ocean",
+            "time": "6am - 7pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "silver", "base": "93g", "fisher": "116g", "angler": "139g"},
+                {"quality": "gold", "base": "112g", "fisher": "140g", "angler": "168g"},
+                {"quality": "iridium", "base": "150g", "fisher": "187g", "angler": "225g"}
+            ],
+            "image": "assets/images/Red_Mullet.png"
+        },
+
+        {
+            "name": "Octopus",
+            "location": "Ocean",
+            "time": "6am - 1pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "silver", "base": "187g", "fisher": "233g", "angler": "280g"},
+                {"quality": "gold", "base": "225g", "fisher": "281g", "angler": "337g"},
+                {"quality": "iridium", "base": "300g", "fisher": "375g", "angler": "450g"}
+            ],
+            "image": "assets/images/Octopus.png"
+        },
+
+        {
+            "name": "Red Snapper",
+            "location": "Ocean",
+            "time": "6am - 7pm",
+            "weather": "Rain",
+            "prices":[
+                {"quality": "base", "base": "50g", "fisher": "62g", "angler": "75g"},
+                {"quality": "silver", "base": "62g", "fisher": "77g", "angler": "93g"},
+                {"quality": "gold", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "iridium", "base": "100g", "fisher": "125g", "angler": "150g"}
+            ],
+            "image": "assets/images/Red_Snapper.png"
+        },
+
+        {
+            "name": "Super Cucumber",
+            "location": "Ocean, Ginger Island Oceans",
+            "time": "6pm - 2am",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "250g", "fisher": "312g", "angler": "375g"},
+                {"quality": "silver", "base": "312g", "fisher": "390g", "angler": "468g"},
+                {"quality": "gold", "base": "375g", "fisher": "468g", "angler": "562g"},
+                {"quality": "iridium", "base": "500g", "fisher": "625g", "angler": "750g"}
+            ],
+            "image": "assets/images/Super_Cucumber.png"
+        },
+
+        {
+            "name": "Sturgeon",
+            "location": "Mounatin Lake",
+            "time": "6am - 7pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "200g", "fisher": "250g", "angler": "300g"},
+                {"quality": "silver", "base": "250g", "fisher": "312g", "angler": "375g"},
+                {"quality": "gold", "base": "300g", "fisher": "375g", "angler": "450g"},
+                {"quality": "iridium", "base": "400g", "fisher": "500g", "angler": "600g"}
+            ],
+            "image": "assets/images/Sturgeon.png"
+        },
+
+        {
+            "name": "Tilapia",
+            "location": "Ocean, Ginger Island Rivers",
+            "time": "6am - 2pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "silver", "base": "93g", "fisher": "116g", "angler": "139g"},
+                {"quality": "gold", "base": "112g", "fisher": "140g", "angler": "168g"},
+                {"quality": "iridium", "base": "150g", "fisher": "187g", "angler": "225g"}
+            ],
+            "image": "assets/images/Tilapia.png"
+        },
+
+        {
+            "name": "Dorado",
+            "location": "River (Forest)",
+            "time": "6am - 7pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "100g", "fisher": "125g", "angler": "150g"},
+                {"quality": "silver", "base": "125g", "fisher": "156g", "angler": "187g"},
+                {"quality": "gold", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "iridium", "base": "200g", "fisher": "250g", "angler": "300g"}
+            ],
+            "image": "assets/images/Dorado.png"
+        },
+
+        {
+            "name": "Crimsonfish",
+            "location": "East Pier on the Beach",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "1500g", "fisher": "1875g", "angler": "2250g"},
+                {"quality": "silver", "base": "1875g", "fisher": "2343g", "angler": "2812g"},
+                {"quality": "gold", "base": "2250g", "fisher": "2812g", "angler": "3375g"},
+                {"quality": "iridium", "base": "3000g", "fisher": "3750g", "angler": "4500g"}
+            ],
+            "image": "assets/images/Crimsonfish.png"
+        },
+
+        {
+            "name": "Largemouth Bass",
+            "location": "Mounatin Lake",
+            "time": "6am - 7pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "100g", "fisher": "125g", "angler": "150g"},
+                {"quality": "silver", "base": "125g", "fisher": "156g", "angler": "187g"},
+                {"quality": "gold", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "iridium", "base": "200g", "fisher": "250g", "angler": "300g"}
+            ],
+            "image": "assets/images/Largemouth_Bass.png"
+        },
+
+        {
+            "name": "Bream",
+            "location": "River (Town & Forest)",
+            "time": "6pm - 2am",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "45g", "fisher": "56g", "angler": "67g"},
+                {"quality": "silver", "base": "56g", "fisher": "70g", "angler": "84g"},
+                {"quality": "gold", "base": "67g", "fisher": "83g", "angler": "100g"},
+                {"quality": "iridium", "base": "90g", "fisher": "112g", "angler": "135g"}
+            ],
+            "image": "assets/images/Bream.png"
+        },
+
+        {
+            "name": "Carp",
+            "location": "Mounatin Lake, Secret Woods Pond, The Sewers",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "30g", "fisher": "37g", "angler": "45g"},
+                {"quality": "silver", "base": "37g", "fisher": "46g", "angler": "55g"},
+                {"quality": "gold", "base": "45g", "fisher": "56g", "angler": "67g"},
+                {"quality": "iridium", "base": "60g", "fisher": "75g", "angler": "90g"}
+            ],
+            "image": "assets/images/Carp.png"
+        },
+
+        {
+            "name": "Ghostfish",
+            "location": "Mines (Floors 20 & 60), Ghost drops",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "45g", "fisher": "56g", "angler": "67g"},
+                {"quality": "silver", "base": "56g", "fisher": "70g", "angler": "84g"},
+                {"quality": "gold", "base": "67g", "fisher": "83g", "angler": "100g"},
+                {"quality": "iridium", "base": "90g", "fisher": "112g", "angler": "135g"}
+            ],
+            "image": "assets/images/Ghostfish.png"
+        },
+
+        {
+            "name": "Stonefish",
+            "location": "Mines (Floor 20)",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "300g", "fisher": "375g", "angler": "450g"},
+                {"quality": "silver", "base": "375g", "fisher": "468g", "angler": "562g"},
+                {"quality": "gold", "base": "450g", "fisher": "562g", "angler": "675g"},
+                {"quality": "iridium", "base": "600g", "fisher": "750g", "angler": "900g"}
+            ],
+            "image": "assets/images/Stonefish.png"
+        },
+
+        {
+            "name": "Ice Pip",
+            "location": "Mines (Floor 60)",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "500g", "fisher": "625g", "angler": "750g"},
+                {"quality": "silver", "base": "625g", "fisher": "781g", "angler": "937g"},
+                {"quality": "gold", "base": "750g", "fisher": "937g", "angler": "1125g"},
+                {"quality": "iridium", "base": "1000g", "fisher": "1250g", "angler": "1500g"}
+            ],
+            "image": "assets/images/Ice_Pip.png"
+        },
+
+        {
+            "name": "Lava Eel",
+            "location": "Mines (Floor 100), Volcano Caldera",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "700g", "fisher": "875g", "angler": "1050g"},
+                {"quality": "silver", "base": "875g", "fisher": "1093g", "angler": "1312g"},
+                {"quality": "gold", "base": "1050g", "fisher": "1312g", "angler": "1575g"},
+                {"quality": "iridium", "base": "1400g", "fisher": "1750g", "angler": "2100g"}
+            ],
+            "image": "assets/images/Lava_Eel.png"
+        },
+
+        {
+            "name": "Sandfish",
+            "location": "The Desert",
+            "time": "6am - 8pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "silver", "base": "93g", "fisher": "116g", "angler": "139g"},
+                {"quality": "gold", "base": "112g", "fisher": "140g", "angler": "168g"},
+                {"quality": "iridium", "base": "150g", "fisher": "187g", "angler": "225g"}
+            ],
+            "image": "assets/images/Sandfish.png"
+        },
+
+        {
+            "name": "Scorpion Carp",
+            "location": "The Desert",
+            "time": "6am - 8pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "silver", "base": "187g", "fisher": "233g", "angler": "280g"},
+                {"quality": "gold", "base": "225g", "fisher": "281g", "angler": "337g"},
+                {"quality": "iridium", "base": "300g", "fisher": "375g", "angler": "450g"}
+            ],
+            "image": "assets/images/Scorpion_Carp.png"
+        },
+
+        {
+            "name": "Bullhead",
+            "location": "Mounatin Lake",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "silver", "base": "93g", "fisher": "116g", "angler": "139g"},
+                {"quality": "gold", "base": "112g", "fisher": "140g", "angler": "168g"},
+                {"quality": "iridium", "base": "150g", "fisher": "187g", "angler": "225g"}
+            ],
+            "image": "assets/images/Bullhead.png"
+        },
+
+        {
+            "name": "Chub",
+            "location": "River (Forest), Mountain Lake",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "50g", "fisher": "62g", "angler": "75g"},
+                {"quality": "silver", "base": "62g", "fisher": "77g", "angler": "93g"},
+                {"quality": "gold", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "iridium", "base": "100g", "fisher": "125g", "angler": "150g"}
+            ],
+            "image": "assets/images/Chub.png"
+        },
+
+        {
+            "name": "Woodskip",
+            "location": "Secret Woods Pond, Forest Farm",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "silver", "base": "93g", "fisher": "116g", "angler": "139g"},
+                {"quality": "gold", "base": "112g", "fisher": "140g", "angler": "168g"},
+                {"quality": "iridium", "base": "150g", "fisher": "187g", "angler": "225g"}
+            ],
+            "image": "assets/images/Woodskip.png"
+        },
+
+        {
+            "name": "Void Salmon",
+            "location": "Witch's Swamp",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "silver", "base": "187g", "fisher": "233g", "angler": "280g"},
+                {"quality": "gold", "base": "225g", "fisher": "281g", "angler": "337g"},
+                {"quality": "iridium", "base": "300g", "fisher": "375g", "angler": "450g"}
+            ],
+            "image": "assets/images/Void_Salmon.png"
+        },
+
+        {
+            "name": "Slimejack",
+            "location": "Mutant Bug Lair",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "100g", "fisher": "125g", "angler": "150g"},
+                {"quality": "silver", "base": "125g", "fisher": "156g", "angler": "187g"},
+                {"quality": "gold", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "iridium", "base": "200g", "fisher": "250g", "angler": "300g"}
+            ],
+            "image": "assets/images/Slimejack.png"
+        }
+    ],
+
+    "fall": [
+        {
+            "name": "Anchovy",
+            "location": "Ocean",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "30g", "fisher": "37g", "angler": "45g"},
+                {"quality": "silver", "base": "37g", "fisher": "46g", "angler": "55g"},
+                {"quality": "gold", "base": "45g", "fisher": "56g", "angler": "67g"},
+                {"quality": "iridium", "base": "60g", "fisher": "75g", "angler": "90g"}
+            ],
+            "image": "assets/images/Anchovy.png"
+        },
+
+        {
+            "name": "Smallmouth Bass",
+            "location": "River (Town), Forest Pond",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "50g", "fisher": "62g", "angler": "75g"},
+                {"quality": "silver", "base": "62g", "fisher": "77g", "angler": "93g"},
+                {"quality": "gold", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "iridium", "base": "100g", "fisher": "125g", "angler": "150g"}
+            ],
+            "image": "assets/images/Smallmouth_Bass.png"
+        },
+
+        {
+            "name": "Catfish",
+            "location": "River (Town & Forest), Witch's Swamp",
+            "time": "6am - 12am",
+            "weather": "Rain",
+            "prices":[
+                {"quality": "base", "base": "200g", "fisher": "250g", "angler": "300g"},
+                {"quality": "silver", "base": "250g", "fisher": "312g", "angler": "375g"},
+                {"quality": "gold", "base": "300g", "fisher": "375g", "angler": "450g"},
+                {"quality": "iridium", "base": "400g", "fisher": "500g", "angler": "600g"}
+            ],
+            "image": "assets/images/Catfish.png"
+        },
+
+        {
+            "name": "Eel",
+            "location": "Ocean",
+            "time": "4pm - 2am",
+            "weather": "Rain",
+            "prices":[
+                {"quality": "base", "base": "85g", "fisher": "106g", "angler": "127g"},
+                {"quality": "silver", "base": "106g", "fisher": "132g", "angler": "159g"},
+                {"quality": "gold", "base": "127g", "fisher": "158g", "angler": "190g"},
+                {"quality": "iridium", "base": "170g", "fisher": "212g", "angler": "255g"}
+            ],
+            "image": "assets/images/Eel.png"
+        },
+
+        {
+            "name": "Sardine",
+            "location": "Ocean",
+            "time": "6am - 7pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "40g", "fisher": "50g", "angler": "60g"},
+                {"quality": "silver", "base": "50g", "fisher": "62g", "angler": "75g"},
+                {"quality": "gold", "base": "60g", "fisher": "75g", "angler": "90g"},
+                {"quality": "iridium", "base": "80g", "fisher": "100g", "angler": "120g"}
+            ],
+            "image": "assets/images/Sardine.png"
+        },
+
+        {
+            "name": "Shad",
+            "location": "River (Town & Forest)",
+            "time": "9am - 2am",
+            "weather": "Rain",
+            "prices":[
+                {"quality": "base", "base": "60g", "fisher": "75g", "angler": "90g"},
+                {"quality": "silver", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "gold", "base": "90g", "fisher": "112g", "angler": "135g"},
+                {"quality": "iridium", "base": "120g", "fisher": "150g", "angler": "180g"}
+            ],
+            "image": "assets/images/Shad.png"
+        },
+
+        {
+            "name": "Red Snapper",
+            "location": "Ocean",
+            "time": "6am - 7pm",
+            "weather": "Rain",
+            "prices":[
+                {"quality": "base", "base": "50g", "fisher": "62g", "angler": "75g"},
+                {"quality": "silver", "base": "62g", "fisher": "77g", "angler": "93g"},
+                {"quality": "gold", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "iridium", "base": "100g", "fisher": "125g", "angler": "150g"}
+            ],
+            "image": "assets/images/Red_Snapper.png"
+        },
+
+        {
+            "name": "Super Cucumber",
+            "location": "Ocean, Ginger Island Oceans",
+            "time": "6pm - 2am",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "250g", "fisher": "312g", "angler": "375g"},
+                {"quality": "silver", "base": "312g", "fisher": "390g", "angler": "468g"},
+                {"quality": "gold", "base": "375g", "fisher": "468g", "angler": "562g"},
+                {"quality": "iridium", "base": "500g", "fisher": "625g", "angler": "750g"}
+            ],
+            "image": "assets/images/Super_Cucumber.png"
+        },
+
+        {
+            "name": "Tilapia",
+            "location": "Ocean, Ginger Island Rivers",
+            "time": "6am - 2pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "silver", "base": "93g", "fisher": "116g", "angler": "139g"},
+                {"quality": "gold", "base": "112g", "fisher": "140g", "angler": "168g"},
+                {"quality": "iridium", "base": "150g", "fisher": "187g", "angler": "225g"}
+            ],
+            "image": "assets/images/Tilapia.png"
+        },
+
+        {
+            "name": "Salmon",
+            "location": "River (Town & Forest)",
+            "time": "6am - 7pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "silver", "base": "93g", "fisher": "116g", "angler": "139g"},
+                {"quality": "gold", "base": "112g", "fisher": "140g", "angler": "168g"},
+                {"quality": "iridium", "base": "150g", "fisher": "187g", "angler": "225g"}
+            ],
+            "image": "assets/images/Salmon.png"
+        },
+
+        {
+            "name": "Walleye",
+            "location": "River (Town & Forest), Mountain Lake, Forest Pond",
+            "time": "12pm - 2am",
+            "weather": "Rain",
+            "prices":[
+                {"quality": "base", "base": "105g", "fisher": "131g", "angler": "157g"},
+                {"quality": "silver", "base": "131g", "fisher": "163g", "angler": "196g"},
+                {"quality": "gold", "base": "157g", "fisher": "196g", "angler": "235g"},
+                {"quality": "iridium", "base": "210g", "fisher": "262g", "angler": "315g"}
+            ],
+            "image": "assets/images/Walleye.png"
+        },
+
+        {
+            "name": "Sea Cucumber",
+            "location": "Ocean",
+            "time": "6am - 7pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "silver", "base": "93g", "fisher": "116g", "angler": "139g"},
+                {"quality": "gold", "base": "112g", "fisher": "140g", "angler": "168g"},
+                {"quality": "iridium", "base": "150g", "fisher": "187g", "angler": "225g"}
+            ],
+            "image": "assets/images/Sea_Cucumber.png"
+        },
+
+        {
+            "name": "Tiger Trout",
+            "location": "River (Town & Forest)",
+            "time": "6am - 7pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "silver", "base": "187g", "fisher": "233g", "angler": "280g"},
+                {"quality": "gold", "base": "225g", "fisher": "281g", "angler": "337g"},
+                {"quality": "iridium", "base": "300g", "fisher": "375g", "angler": "450g"}
+            ],
+            "image": "assets/images/Tiger_Trout.png"
+        },
+
+        {
+            "name": "Albacore",
+            "location": "Ocean",
+            "time": "6am - 11am & 6pm - 2am",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "silver", "base": "93g", "fisher": "116g", "angler": "139g"},
+                {"quality": "gold", "base": "112g", "fisher": "140g", "angler": "168g"},
+                {"quality": "iridium", "base": "150g", "fisher": "187g", "angler": "225g"}
+            ],
+            "image": "assets/images/Albacore.png"
+        },
+
+        {
+            "name": "Midnight Carp",
+            "location": "Mounatin Lake, Forest Pond, Ginger Island Pond & Rivers",
+            "time": "10pm - 2am",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "silver", "base": "187g", "fisher": "233g", "angler": "280g"},
+                {"quality": "gold", "base": "225g", "fisher": "281g", "angler": "337g"},
+                {"quality": "iridium", "base": "300g", "fisher": "375g", "angler": "450g"}
+            ],
+            "image": "assets/images/Midnight_Carp.png"
+        },
+
+        {
+            "name": "Angler",
+            "location": "North of JojaMart on the Wooden Plank Bridge",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "900g", "fisher": "1125g", "angler": "1350g"},
+                {"quality": "silver", "base": "1125g", "fisher": "1406g", "angler": "1687g"},
+                {"quality": "gold", "base": "1350g", "fisher": "1687g", "angler": "2025g"},
+                {"quality": "iridium", "base": "1800g", "fisher": "2250g", "angler": "2700g"}
+            ],
+            "image": "assets/images/Angler.png"
+        },
+
+        {
+            "name": "Largemouth Bass",
+            "location": "Mounatin Lake",
+            "time": "6am - 7pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "100g", "fisher": "125g", "angler": "150g"},
+                {"quality": "silver", "base": "125g", "fisher": "156g", "angler": "187g"},
+                {"quality": "gold", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "iridium", "base": "200g", "fisher": "250g", "angler": "300g"}
+            ],
+            "image": "assets/images/Largemouth_Bass.png"
+        },
+
+        {
+            "name": "Bream",
+            "location": "River (Town & Forest)",
+            "time": "6pm - 2am",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "45g", "fisher": "56g", "angler": "67g"},
+                {"quality": "silver", "base": "56g", "fisher": "70g", "angler": "84g"},
+                {"quality": "gold", "base": "67g", "fisher": "83g", "angler": "100g"},
+                {"quality": "iridium", "base": "90g", "fisher": "112g", "angler": "135g"}
+            ],
+            "image": "assets/images/Bream.png"
+        },
+
+        {
+            "name": "Carp",
+            "location": "Mounatin Lake, Secret Woods Pond, The Sewers",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "30g", "fisher": "37g", "angler": "45g"},
+                {"quality": "silver", "base": "37g", "fisher": "46g", "angler": "55g"},
+                {"quality": "gold", "base": "45g", "fisher": "56g", "angler": "67g"},
+                {"quality": "iridium", "base": "60g", "fisher": "75g", "angler": "90g"}
+            ],
+            "image": "assets/images/Carp.png"
+        },
+
+        {
+            "name": "Ghostfish",
+            "location": "Mines (Floors 20 & 60), Ghost drops",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "45g", "fisher": "56g", "angler": "67g"},
+                {"quality": "silver", "base": "56g", "fisher": "70g", "angler": "84g"},
+                {"quality": "gold", "base": "67g", "fisher": "83g", "angler": "100g"},
+                {"quality": "iridium", "base": "90g", "fisher": "112g", "angler": "135g"}
+            ],
+            "image": "assets/images/Ghostfish.png"
+        },
+
+        {
+            "name": "Stonefish",
+            "location": "Mines (Floor 20)",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "300g", "fisher": "375g", "angler": "450g"},
+                {"quality": "silver", "base": "375g", "fisher": "468g", "angler": "562g"},
+                {"quality": "gold", "base": "450g", "fisher": "562g", "angler": "675g"},
+                {"quality": "iridium", "base": "600g", "fisher": "750g", "angler": "900g"}
+            ],
+            "image": "assets/images/Stonefish.png"
+        },
+
+        {
+            "name": "Ice Pip",
+            "location": "Mines (Floor 60)",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "500g", "fisher": "625g", "angler": "750g"},
+                {"quality": "silver", "base": "625g", "fisher": "781g", "angler": "937g"},
+                {"quality": "gold", "base": "750g", "fisher": "937g", "angler": "1125g"},
+                {"quality": "iridium", "base": "1000g", "fisher": "1250g", "angler": "1500g"}
+            ],
+            "image": "assets/images/Ice_Pip.png"
+        },
+
+        {
+            "name": "Lava Eel",
+            "location": "Mines (Floor 100), Volcano Caldera",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "700g", "fisher": "875g", "angler": "1050g"},
+                {"quality": "silver", "base": "875g", "fisher": "1093g", "angler": "1312g"},
+                {"quality": "gold", "base": "1050g", "fisher": "1312g", "angler": "1575g"},
+                {"quality": "iridium", "base": "1400g", "fisher": "1750g", "angler": "2100g"}
+            ],
+            "image": "assets/images/Lava_Eel.png"
+        },
+
+        {
+            "name": "Sandfish",
+            "location": "The Desert",
+            "time": "6am - 8pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "silver", "base": "93g", "fisher": "116g", "angler": "139g"},
+                {"quality": "gold", "base": "112g", "fisher": "140g", "angler": "168g"},
+                {"quality": "iridium", "base": "150g", "fisher": "187g", "angler": "225g"}
+            ],
+            "image": "assets/images/Sandfish.png"
+        },
+
+        {
+            "name": "Scorpion Carp",
+            "location": "The Desert",
+            "time": "6am - 8pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "silver", "base": "187g", "fisher": "233g", "angler": "280g"},
+                {"quality": "gold", "base": "225g", "fisher": "281g", "angler": "337g"},
+                {"quality": "iridium", "base": "300g", "fisher": "375g", "angler": "450g"}
+            ],
+            "image": "assets/images/Scorpion_Carp.png"
+        },
+
+        {
+            "name": "Bullhead",
+            "location": "Mounatin Lake",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "silver", "base": "93g", "fisher": "116g", "angler": "139g"},
+                {"quality": "gold", "base": "112g", "fisher": "140g", "angler": "168g"},
+                {"quality": "iridium", "base": "150g", "fisher": "187g", "angler": "225g"}
+            ],
+            "image": "assets/images/Bullhead.png"
+        },
+
+        {
+            "name": "Chub",
+            "location": "River (Forest), Mountain Lake",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "50g", "fisher": "62g", "angler": "75g"},
+                {"quality": "silver", "base": "62g", "fisher": "77g", "angler": "93g"},
+                {"quality": "gold", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "iridium", "base": "100g", "fisher": "125g", "angler": "150g"}
+            ],
+            "image": "assets/images/Chub.png"
+        },
+
+        {
+            "name": "Woodskip",
+            "location": "Secret Woods Pond, Forest Farm",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "silver", "base": "93g", "fisher": "116g", "angler": "139g"},
+                {"quality": "gold", "base": "112g", "fisher": "140g", "angler": "168g"},
+                {"quality": "iridium", "base": "150g", "fisher": "187g", "angler": "225g"}
+            ],
+            "image": "assets/images/Woodskip.png"
+        },
+
+        {
+            "name": "Void Salmon",
+            "location": "Witch's Swamp",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "silver", "base": "187g", "fisher": "233g", "angler": "280g"},
+                {"quality": "gold", "base": "225g", "fisher": "281g", "angler": "337g"},
+                {"quality": "iridium", "base": "300g", "fisher": "375g", "angler": "450g"}
+            ],
+            "image": "assets/images/Void_Salmon.png"
+        },
+
+        {
+            "name": "Slimejack",
+            "location": "Mutant Bug Lair",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "100g", "fisher": "125g", "angler": "150g"},
+                {"quality": "silver", "base": "125g", "fisher": "156g", "angler": "187g"},
+                {"quality": "gold", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "iridium", "base": "200g", "fisher": "250g", "angler": "300g"}
+            ],
+            "image": "assets/images/Slimejack.png"
+        }
+    ],
+
+    "winter": [
+        {
+            "name": "Herring",
+            "location": "Ocean",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "30g", "fisher": "37g", "angler": "45g"},
+                {"quality": "silver", "base": "37g", "fisher": "46g", "angler": "55g"},
+                {"quality": "gold", "base": "45g", "fisher": "56g", "angler": "67g"},
+                {"quality": "iridium", "base": "60g", "fisher": "75g", "angler": "90g"}
+            ],
+            "image": "assets/images/Herring.png"
+        },
+
+        {
+            "name": "Pufferfish",
+            "location": "Ocean, Ginger Island Oceans",
+            "time": "12pm - 4pm",
+            "weather": "Sun",
+            "prices":[
+                {"quality": "base", "base": "200g", "fisher": "250g", "angler": "300g"},
+                {"quality": "silver", "base": "250g", "fisher": "312g", "angler": "375g"},
+                {"quality": "gold", "base": "300g", "fisher": "375g", "angler": "450g"},
+                {"quality": "iridium", "base": "400g", "fisher": "500g", "angler": "600g"}
+            ],
+            "image": "assets/images/Pufferfish.png"
+        },
+
+        {
+            "name": "Sardine",
+            "location": "Ocean",
+            "time": "6am - 7pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "40g", "fisher": "50g", "angler": "60g"},
+                {"quality": "silver", "base": "50g", "fisher": "62g", "angler": "75g"},
+                {"quality": "gold", "base": "60g", "fisher": "75g", "angler": "90g"},
+                {"quality": "iridium", "base": "80g", "fisher": "100g", "angler": "120g"}
+            ],
+            "image": "assets/images/Sardine.png"
+        },
+
+        {
+            "name": "Halibut",
+            "location": "Ocean",
+            "time": "6am - 11am & 7pm - 2am",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "80g", "fisher": "100g", "angler": "120g"},
+                {"quality": "silver", "base": "100g", "fisher": "125g", "angler": "150g"},
+                {"quality": "gold", "base": "120g", "fisher": "150g", "angler": "180g"},
+                {"quality": "iridium", "base": "160g", "fisher": "200g", "angler": "240g"}
+            ],
+            "image": "assets/images/Halibut.png"
+        },
+
+        {
+            "name": "Tuna",
+            "location": "Ocean, Ginger Island Oceans",
+            "time": "6am - 7pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "100g", "fisher": "125g", "angler": "150g"},
+                {"quality": "silver", "base": "125g", "fisher": "156g", "angler": "187g"},
+                {"quality": "gold", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "iridium", "base": "200g", "fisher": "250g", "angler": "300g"}
+            ],
+            "image": "assets/images/Tuna.png"
+        },
+
+        {
+            "name": "Pike",
+            "location": "River (Town), Forest Pond",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "100g", "fisher": "125g", "angler": "150g"},
+                {"quality": "silver", "base": "125g", "fisher": "156g", "angler": "187g"},
+                {"quality": "gold", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "iridium", "base": "200g", "fisher": "250g", "angler": "300g"}
+            ],
+            "image": "assets/images/Pike.png"
+        },
+
+        {
+            "name": "Red Mullet",
+            "location": "Ocean",
+            "time": "6am - 7pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "silver", "base": "93g", "fisher": "116g", "angler": "139g"},
+                {"quality": "gold", "base": "112g", "fisher": "140g", "angler": "168g"},
+                {"quality": "iridium", "base": "150g", "fisher": "187g", "angler": "225g"}
+            ],
+            "image": "assets/images/Red_Mullet.png"
+        },
+
+        {
+            "name": "Red Snapper",
+            "location": "Ocean",
+            "time": "6am - 7pm",
+            "weather": "Rain",
+            "prices":[
+                {"quality": "base", "base": "50g", "fisher": "62g", "angler": "75g"},
+                {"quality": "silver", "base": "62g", "fisher": "77g", "angler": "93g"},
+                {"quality": "gold", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "iridium", "base": "100g", "fisher": "125g", "angler": "150g"}
+            ],
+            "image": "assets/images/Red_Snapper.png"
+        },
+
+        {
+            "name": "Sturgeon",
+            "location": "Mounatin Lake",
+            "time": "6am - 7pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "200g", "fisher": "250g", "angler": "300g"},
+                {"quality": "silver", "base": "250g", "fisher": "312g", "angler": "375g"},
+                {"quality": "gold", "base": "300g", "fisher": "375g", "angler": "450g"},
+                {"quality": "iridium", "base": "400g", "fisher": "500g", "angler": "600g"}
+            ],
+            "image": "assets/images/Sturgeon.png"
+        },
+
+        {
+            "name": "Walleye",
+            "location": "River (Town & Forest), Mountain Lake, Forest Pond",
+            "time": "12pm - 2am",
+            "weather": "Rain",
+            "prices":[
+                {"quality": "base", "base": "105g", "fisher": "131g", "angler": "157g"},
+                {"quality": "silver", "base": "131g", "fisher": "163g", "angler": "196g"},
+                {"quality": "gold", "base": "157g", "fisher": "196g", "angler": "235g"},
+                {"quality": "iridium", "base": "210g", "fisher": "262g", "angler": "315g"}
+            ],
+            "image": "assets/images/Walleye.png"
+        },
+
+        {
+            "name": "Sea Cucumber",
+            "location": "Ocean",
+            "time": "6am - 7pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "silver", "base": "93g", "fisher": "116g", "angler": "139g"},
+                {"quality": "gold", "base": "112g", "fisher": "140g", "angler": "168g"},
+                {"quality": "iridium", "base": "150g", "fisher": "187g", "angler": "225g"}
+            ],
+            "image": "assets/images/Sea_Cucumber.png"
+        },
+
+        {
+            "name": "Tiger Trout",
+            "location": "River (Town & Forest)",
+            "time": "6am - 7pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "silver", "base": "187g", "fisher": "233g", "angler": "280g"},
+                {"quality": "gold", "base": "225g", "fisher": "281g", "angler": "337g"},
+                {"quality": "iridium", "base": "300g", "fisher": "375g", "angler": "450g"}
+            ],
+            "image": "assets/images/Tiger_Trout.png"
+        },
+
+        {
+            "name": "Albacore",
+            "location": "Ocean",
+            "time": "6am - 11am & 6pm - 2am",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "silver", "base": "93g", "fisher": "116g", "angler": "139g"},
+                {"quality": "gold", "base": "112g", "fisher": "140g", "angler": "168g"},
+                {"quality": "iridium", "base": "150g", "fisher": "187g", "angler": "225g"}
+            ],
+            "image": "assets/images/Albacore.png"
+        },
+
+        {
+            "name": "Midnight Carp",
+            "location": "Mounatin Lake, Forest Pond, Ginger Island Pond & Rivers",
+            "time": "10pm - 2am",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "silver", "base": "187g", "fisher": "233g", "angler": "280g"},
+                {"quality": "gold", "base": "225g", "fisher": "281g", "angler": "337g"},
+                {"quality": "iridium", "base": "300g", "fisher": "375g", "angler": "450g"}
+            ],
+            "image": "assets/images/Midnight_Carp.png"
+        },
+
+        {
+            "name": "Perch",
+            "location": "River (Town & Forest), Mountain Lake, Forest Pond",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "55g", "fisher": "68g", "angler": "82g"},
+                {"quality": "silver", "base": "68g", "fisher": "86g", "angler": "102g"},
+                {"quality": "gold", "base": "82g", "fisher": "102g", "angler": "123g"},
+                {"quality": "iridium", "base": "110g", "fisher": "137g", "angler": "165g"}
+            ],
+            "image": "assets/images/Perch.png"
+        },
+
+        {
+            "name": "Squid",
+            "location": "Ocean",
+            "time": "6pm - 2am",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "80g", "fisher": "100g", "angler": "120g"},
+                {"quality": "silver", "base": "100g", "fisher": "125g", "angler": "150g"},
+                {"quality": "gold", "base": "120g", "fisher": "150g", "angler": "180g"},
+                {"quality": "iridium", "base": "160g", "fisher": "200g", "angler": "240g"}
+            ],
+            "image": "assets/images/Squid.png"
+        },
+
+        {
+            "name": "Lingcod",
+            "location": "River (Town & Forest), Mountain Lake",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "120g", "fisher": "150g", "angler": "180g"},
+                {"quality": "silver", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "gold", "base": "180g", "fisher": "225g", "angler": "270g"},
+                {"quality": "iridium", "base": "240g", "fisher": "300g", "angler": "360g"}
+            ],
+            "image": "assets/images/Lingcod.png"
+        },
+
+        {
+            "name": "Glacierfish",
+            "location": "South End of Arrowhead Island in Cindersap Forest",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "1000g", "fisher": "1250g", "angler": "1500g"},
+                {"quality": "silver", "base": "1250g", "fisher": "1562g", "angler": "1875g"},
+                {"quality": "gold", "base": "1500g", "fisher": "1875g", "angler": "2250g"},
+                {"quality": "iridium", "base": "2000g", "fisher": "2500g", "angler": "3000g"}
+            ],
+            "image": "assets/images/Glacierfish.png"
+        },
+
+        {
+            "name": "Midnight Squid",
+            "location": "Night Market Submarine Ride (Winter 15-17)",
+            "time": "5pm - 2am",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "100g", "fisher": "125g", "angler": "150g"},
+                {"quality": "silver", "base": "125g", "fisher": "156g", "angler": "187g"},
+                {"quality": "gold", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "iridium", "base": "200g", "fisher": "250g", "angler": "300g"}
+            ],
+            "image": "assets/images/Midnight_Squid.png"
+        },
+
+        {
+            "name": "Spook Fish",
+            "location": "Night Market Submarine Ride (Winter 15-17)",
+            "time": "5pm - 2am",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "220g", "fisher": "275g", "angler": "330g"},
+                {"quality": "silver", "base": "275g", "fisher": "343g", "angler": "412g"},
+                {"quality": "gold", "base": "330g", "fisher": "412g", "angler": "495g"},
+                {"quality": "iridium", "base": "440g", "fisher": "550g", "angler": "660g"}
+            ],
+            "image": "assets/images/Spook_Fish.png"
+        },
+
+        {
+            "name": "Blobfish",
+            "location": "Night Market Submarine Ride (Winter 15-17)",
+            "time": "5pm - 2am",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "500g", "fisher": "625g", "angler": "750g"},
+                {"quality": "silver", "base": "625g", "fisher": "781g", "angler": "937g"},
+                {"quality": "gold", "base": "750g", "fisher": "937g", "angler": "1125g"},
+                {"quality": "iridium", "base": "1000g", "fisher": "1250g", "angler": "1500g"}
+            ],
+            "image": "assets/images/Blobfish.png"
+        },
+
+        {
+            "name": "Largemouth Bass",
+            "location": "Mounatin Lake",
+            "time": "6am - 7pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "100g", "fisher": "125g", "angler": "150g"},
+                {"quality": "silver", "base": "125g", "fisher": "156g", "angler": "187g"},
+                {"quality": "gold", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "iridium", "base": "200g", "fisher": "250g", "angler": "300g"}
+            ],
+            "image": "assets/images/Largemouth_Bass.png"
+        },
+
+        {
+            "name": "Bream",
+            "location": "River (Town & Forest)",
+            "time": "6pm - 2am",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "45g", "fisher": "56g", "angler": "67g"},
+                {"quality": "silver", "base": "56g", "fisher": "70g", "angler": "84g"},
+                {"quality": "gold", "base": "67g", "fisher": "83g", "angler": "100g"},
+                {"quality": "iridium", "base": "90g", "fisher": "112g", "angler": "135g"}
+            ],
+            "image": "assets/images/Bream.png"
+        },
+
+        {
+            "name": "Carp",
+            "location": "Mounatin Lake, Secret Woods Pond, The Sewers",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "30g", "fisher": "37g", "angler": "45g"},
+                {"quality": "silver", "base": "37g", "fisher": "46g", "angler": "55g"},
+                {"quality": "gold", "base": "45g", "fisher": "56g", "angler": "67g"},
+                {"quality": "iridium", "base": "60g", "fisher": "75g", "angler": "90g"}
+            ],
+            "image": "assets/images/Carp.png"
+        },
+
+        {
+            "name": "Ghostfish",
+            "location": "Mines (Floors 20 & 60), Ghost drops",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "45g", "fisher": "56g", "angler": "67g"},
+                {"quality": "silver", "base": "56g", "fisher": "70g", "angler": "84g"},
+                {"quality": "gold", "base": "67g", "fisher": "83g", "angler": "100g"},
+                {"quality": "iridium", "base": "90g", "fisher": "112g", "angler": "135g"}
+            ],
+            "image": "assets/images/Ghostfish.png"
+        },
+
+        {
+            "name": "Stonefish",
+            "location": "Mines (Floor 20)",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "300g", "fisher": "375g", "angler": "450g"},
+                {"quality": "silver", "base": "375g", "fisher": "468g", "angler": "562g"},
+                {"quality": "gold", "base": "450g", "fisher": "562g", "angler": "675g"},
+                {"quality": "iridium", "base": "600g", "fisher": "750g", "angler": "900g"}
+            ],
+            "image": "assets/images/Stonefish.png"
+        },
+
+        {
+            "name": "Ice Pip",
+            "location": "Mines (Floor 60)",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "500g", "fisher": "625g", "angler": "750g"},
+                {"quality": "silver", "base": "625g", "fisher": "781g", "angler": "937g"},
+                {"quality": "gold", "base": "750g", "fisher": "937g", "angler": "1125g"},
+                {"quality": "iridium", "base": "1000g", "fisher": "1250g", "angler": "1500g"}
+            ],
+            "image": "assets/images/Ice_Pip.png"
+        },
+
+        {
+            "name": "Lava Eel",
+            "location": "Mines (Floor 100), Volcano Caldera",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "700g", "fisher": "875g", "angler": "1050g"},
+                {"quality": "silver", "base": "875g", "fisher": "1093g", "angler": "1312g"},
+                {"quality": "gold", "base": "1050g", "fisher": "1312g", "angler": "1575g"},
+                {"quality": "iridium", "base": "1400g", "fisher": "1750g", "angler": "2100g"}
+            ],
+            "image": "assets/images/Lava_Eel.png"
+        },
+
+        {
+            "name": "Sandfish",
+            "location": "The Desert",
+            "time": "6am - 8pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "silver", "base": "93g", "fisher": "116g", "angler": "139g"},
+                {"quality": "gold", "base": "112g", "fisher": "140g", "angler": "168g"},
+                {"quality": "iridium", "base": "150g", "fisher": "187g", "angler": "225g"}
+            ],
+            "image": "assets/images/Sandfish.png"
+        },
+
+        {
+            "name": "Scorpion Carp",
+            "location": "The Desert",
+            "time": "6am - 8pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "silver", "base": "187g", "fisher": "233g", "angler": "280g"},
+                {"quality": "gold", "base": "225g", "fisher": "281g", "angler": "337g"},
+                {"quality": "iridium", "base": "300g", "fisher": "375g", "angler": "450g"}
+            ],
+            "image": "assets/images/Scorpion_Carp.png"
+        },
+
+        {
+            "name": "Bullhead",
+            "location": "Mounatin Lake",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "silver", "base": "93g", "fisher": "116g", "angler": "139g"},
+                {"quality": "gold", "base": "112g", "fisher": "140g", "angler": "168g"},
+                {"quality": "iridium", "base": "150g", "fisher": "187g", "angler": "225g"}
+            ],
+            "image": "assets/images/Bullhead.png"
+        },
+
+        {
+            "name": "Chub",
+            "location": "River (Forest), Mountain Lake",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "50g", "fisher": "62g", "angler": "75g"},
+                {"quality": "silver", "base": "62g", "fisher": "77g", "angler": "93g"},
+                {"quality": "gold", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "iridium", "base": "100g", "fisher": "125g", "angler": "150g"}
+            ],
+            "image": "assets/images/Chub.png"
+        },
+
+        {
+            "name": "Woodskip",
+            "location": "Secret Woods Pond, Forest Farm",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "silver", "base": "93g", "fisher": "116g", "angler": "139g"},
+                {"quality": "gold", "base": "112g", "fisher": "140g", "angler": "168g"},
+                {"quality": "iridium", "base": "150g", "fisher": "187g", "angler": "225g"}
+            ],
+            "image": "assets/images/Woodskip.png"
+        },
+
+        {
+            "name": "Void Salmon",
+            "location": "Witch's Swamp",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "silver", "base": "187g", "fisher": "233g", "angler": "280g"},
+                {"quality": "gold", "base": "225g", "fisher": "281g", "angler": "337g"},
+                {"quality": "iridium", "base": "300g", "fisher": "375g", "angler": "450g"}
+            ],
+            "image": "assets/images/Void_Salmon.png"
+        },
+
+        {
+            "name": "Slimejack",
+            "location": "Mutant Bug Lair",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "100g", "fisher": "125g", "angler": "150g"},
+                {"quality": "silver", "base": "125g", "fisher": "156g", "angler": "187g"},
+                {"quality": "gold", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "iridium", "base": "200g", "fisher": "250g", "angler": "300g"}
+            ],
+            "image": "assets/images/Slimejack.png"
+        }
+    ],
+
+    "ginger": [
+        {
+            "name": "Pufferfish",
+            "location": "Ocean, Ginger Island Oceans",
+            "time": "12pm - 4pm",
+            "weather": "Sun",
+            "prices":[
+                {"quality": "base", "base": "200g", "fisher": "250g", "angler": "300g"},
+                {"quality": "silver", "base": "250g", "fisher": "312g", "angler": "375g"},
+                {"quality": "gold", "base": "300g", "fisher": "375g", "angler": "450g"},
+                {"quality": "iridium", "base": "400g", "fisher": "500g", "angler": "600g"}
+            ],
+            "image": "assets/images/Pufferfish.png"
+        },
+
+        {
+            "name": "Flounder",
+            "location": "Ocean, Ginger Island Oceans",
+            "time": "6am - 8pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "100g", "fisher": "125g", "angler": "150g"},
+                {"quality": "silver", "base": "125g", "fisher": "156g", "angler": "187g"},
+                {"quality": "gold", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "iridium", "base": "200g", "fisher": "250g", "angler": "300g"}
+            ],
+            "image": "assets/images/Flounder.png"
+        },
+
+        {
+            "name": "Tuna",
+            "location": "Ocean, Ginger Island Oceans",
+            "time": "6am - 7pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "100g", "fisher": "125g", "angler": "150g"},
+                {"quality": "silver", "base": "125g", "fisher": "156g", "angler": "187g"},
+                {"quality": "gold", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "iridium", "base": "200g", "fisher": "250g", "angler": "300g"}
+            ],
+            "image": "assets/images/Tuna.png"
+        },
+
+        {
+            "name": "Super Cucumber",
+            "location": "Ocean, Ginger Island Oceans",
+            "time": "6pm - 2am",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "250g", "fisher": "312g", "angler": "375g"},
+                {"quality": "silver", "base": "312g", "fisher": "390g", "angler": "468g"},
+                {"quality": "gold", "base": "375g", "fisher": "468g", "angler": "562g"},
+                {"quality": "iridium", "base": "500g", "fisher": "625g", "angler": "750g"}
+            ],
+            "image": "assets/images/Super_Cucumber.png"
+        },
+
+        {
+            "name": "Tilapia",
+            "location": "Ocean, Ginger Island Rivers",
+            "time": "6am - 2pm",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "75g", "fisher": "93g", "angler": "112g"},
+                {"quality": "silver", "base": "93g", "fisher": "116g", "angler": "139g"},
+                {"quality": "gold", "base": "112g", "fisher": "140g", "angler": "168g"},
+                {"quality": "iridium", "base": "150g", "fisher": "187g", "angler": "225g"}
+            ],
+            "image": "assets/images/Tilapia.png"
+        },
+
+        {
+            "name": "Midnight Carp",
+            "location": "Mounatin Lake, Forest Pond, Ginger Island Pond & Rivers",
+            "time": "10pm - 2am",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "silver", "base": "187g", "fisher": "233g", "angler": "280g"},
+                {"quality": "gold", "base": "225g", "fisher": "281g", "angler": "337g"},
+                {"quality": "iridium", "base": "300g", "fisher": "375g", "angler": "450g"}
+            ],
+            "image": "assets/images/Midnight_Carp.png"
+        },
+
+        {
+            "name": "Stingray",
+            "location": "Pirate Cove",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "180g", "fisher": "225g", "angler": "270g"},
+                {"quality": "silver", "base": "225g", "fisher": "281g", "angler": "337g"},
+                {"quality": "gold", "base": "270g", "fisher": "337g", "angler": "405g"},
+                {"quality": "iridium", "base": "360g", "fisher": "450g", "angler": "540g"}
+            ],
+            "image": "assets/images/Stingray.png"
+        },
+
+        {
+            "name": "Lionfish",
+            "location": "Ginger Island Oceans",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "100g", "fisher": "125g", "angler": "150g"},
+                {"quality": "silver", "base": "125g", "fisher": "156g", "angler": "187g"},
+                {"quality": "gold", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "iridium", "base": "200g", "fisher": "250g", "angler": "300g"}
+            ],
+            "image": "assets/images/Lionfish.png"
+        },
+
+        {
+            "name": "Blue Discus",
+            "location": "Ginger Island Pond & Rivers",
+            "time": "Anytime",
+            "weather": "Any",
+            "prices":[
+                {"quality": "base", "base": "120g", "fisher": "150g", "angler": "180g"},
+                {"quality": "silver", "base": "150g", "fisher": "187g", "angler": "225g"},
+                {"quality": "gold", "base": "180g", "fisher": "225g", "angler": "270g"},
+                {"quality": "iridium", "base": "240g", "fisher": "300g", "angler": "360g"}
+            ],
+            "image": "assets/images/Blue_Discus.png"
+        }
+    ]
+}
